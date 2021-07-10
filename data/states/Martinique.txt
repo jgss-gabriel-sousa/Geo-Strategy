@@ -1,0 +1,7 @@
+core=MQ
+claim=MQ
+population=376480
+area=1128
+color=156,82,202
+cities{
+}

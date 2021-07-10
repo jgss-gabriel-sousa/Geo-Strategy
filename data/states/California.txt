@@ -1,0 +1,14 @@
+name=CALIFORNIA
+core=US
+claim=US,CLF
+population=39536653
+area=403466
+color=137,98,36
+cities{
+Los Angeles
+San Francisco
+San Diego
+}
+productions{
+Oil=1684.9
+}

@@ -1,0 +1,7 @@
+core=FR
+claim=FR
+population=2820940
+area=47784
+color=112,0,96
+cities{
+}

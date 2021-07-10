@@ -1,0 +1,13 @@
+{
+id=1
+title=evt1
+desc=evt1
+picture=
+conditions{
+
+}
+trigger=
+
+}
+option{
+}

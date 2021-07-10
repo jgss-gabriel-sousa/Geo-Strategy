@@ -1,0 +1,7 @@
+core=AM
+claim=AM
+population=2956900
+area=28342
+color=128,80,0
+cities{
+}

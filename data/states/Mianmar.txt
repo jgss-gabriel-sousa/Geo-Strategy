@@ -1,0 +1,6 @@
+core=MN
+population=53582855
+area=655875
+color=144,112,223
+cities{
+}

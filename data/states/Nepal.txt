@@ -1,0 +1,7 @@
+core=NP
+claim=NP
+population=28095714
+area=143386
+color=33,48,96
+cities{
+}

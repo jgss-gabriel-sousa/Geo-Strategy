@@ -1,0 +1,7 @@
+core=PT
+claim=PT
+population=246772
+area=2351
+color=144,160,128
+cities{
+}

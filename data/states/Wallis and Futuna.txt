@@ -1,0 +1,7 @@
+core=WF
+claim=WF
+population=11558
+area=142
+color=188,76,110
+cities{
+}

@@ -1,0 +1,7 @@
+core=MZ
+claim=MZ
+population=30066648
+area=783955
+color=160,97,175
+cities{
+}

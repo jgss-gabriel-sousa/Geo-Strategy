@@ -1,0 +1,7 @@
+core=EC
+claim=EC
+population=17084358
+area=269383
+color=192,0,80
+cities{
+}

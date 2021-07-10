@@ -1,0 +1,7 @@
+core=CA
+claim=CA
+population=29849823‬
+area=7728379
+color=206,166,28
+cities{
+}

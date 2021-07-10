@@ -1,0 +1,10 @@
+name=GUANGDONG
+core=CN
+claim=CN,CT
+population=0
+area=0
+color=48,176,224
+cities{
+}
+productions{
+}

@@ -1,0 +1,7 @@
+core=AK
+claim=AK
+population=150932
+area=11458
+color=128,144,64
+cities{
+}

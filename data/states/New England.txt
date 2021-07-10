@@ -1,0 +1,13 @@
+name=NEW ENGLAND
+core=US
+claim=US
+population=0
+area=0
+color=110,117,123
+disasters=
+terrain=plain
+
+cities{
+}
+productions{
+}

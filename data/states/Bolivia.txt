@@ -1,0 +1,7 @@
+core=BO
+claim=BO
+population=8149812‬
+area=713788‬
+color=160,192,240
+cities{
+}

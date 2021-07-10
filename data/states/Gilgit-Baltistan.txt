@@ -1,0 +1,7 @@
+core=PK
+claim=PK
+population=1853251
+area=72971
+color=67,185,159
+cities{
+}

@@ -1,0 +1,7 @@
+core=SA
+claim=SA
+population=13174864
+area=549475
+color=187,52,25
+cities{
+}

@@ -1,0 +1,19 @@
+Belgium: 5%
+Bermuda: 5%
+Brazil: 8%
+Czech Republic: 17%
+Denmark: 13.7%
+Finland: 16%
+France: 23.6%
+Germany: 19%
+Ghana: 27.5%
+Ireland: 33%
+Italy: 8%
+Japan: 21.6%
+The Netherlands: 16.7%
+Switzerland: 3%
+United Kingdom: 3%
+United States: 13.5%
+Spain: 13.9%
+Russia: 0.5%
+Israel: 21.7%

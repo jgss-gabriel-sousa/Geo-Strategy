@@ -1,0 +1,24 @@
+//Name;Strength;Base State;Aggressivity(0-100);Spread(0-100);International Activity(0-100);Supporters
+
+//Islamic Terrorists
+Islamic State;60000;Syria,Iraq;100;10;40;TR,SA,QA
+Al-Qaeda;40000;Mali,Somalia,Syria,Yemen;100;60;50;SA,QA,IR,PK
+Hamas;20000;Gaza Strip;100;0;0;PS,SA,QA
+Taliban;60000;Afghanistan;80;20;0;PK,QA,IR,RU,SA
+Hezbollah;35000;Lebanon,Syria;100;20;40;IR,SY,RU,IQ
+Boko Haram;20000;Nigeria,Niger,Chad,Mali;80;50;0;
+
+//Mafias
+Russian Mafia;300000;Chechnya,North Caucasus,Germany,Russia;20;0;0;
+Chechen Mafia;10000;Chechnya,North Caucasus,Germany,Russia;20;0;0;
+Italian-American Mafia;3000;United States;20;0;0;
+Sicilian Mafia;9000;Sicily,Italy,United States;20;0;0;
+
+//Drug Cartel
+PCC;3000;Brazil;40;10;0;
+Comando Vermelho;3000;Brazil;40;10;0;
+
+
+//Militias
+Brazilian Militia;1000;Brazil;20;0;0;
+FARC;10000;Colombia;60;0;0;VE

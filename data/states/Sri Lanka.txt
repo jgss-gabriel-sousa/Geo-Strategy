@@ -1,0 +1,7 @@
+core=LK
+claim=LK
+population=21803000
+area=62723
+color=223,32,80
+cities{
+}

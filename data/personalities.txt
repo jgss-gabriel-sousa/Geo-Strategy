@@ -1,0 +1,107 @@
+//https://www.forbes.com/powerful-people/list/
+//Data
+
+Donald Trump{
+gender=
+sexual orientation=
+age=73
+nationality=US
+personality=
+popularity=42
+ideology=nationalist
+money=2100000000
+occupation=politician,businessman
+spouse="Melania Knauss"
+childrens="Donald Jr Trump","Ivanka Trump","Eric Trump","Tiffany Trump","Barron Trump"
+siblings=
+parents="Fred Trump","Mary Anne MacLeod"
+}
+
+
+Vladimir Putin{
+gender=
+sexual orientation=
+age=66
+nationality=RU
+personality=
+popularity=89
+ideology=nationalist
+money=70000000000
+occupation=politician,military
+
+spouse=
+childrens="Maria Vorontsova","Katerina Tikhonova"
+siblings=
+parents="Vladimir Spiridonovich Putin","Maria Putina"
+}
+
+
+Xi Jinping{
+gender=
+sexual orientation=
+age=66
+nationality=CN
+personality=
+popularity=80
+ideology=communist
+money=1510000000
+occupation=politician
+
+spouse=
+childrens="Xi Mingze"
+siblings="Xi Yuanping","Qi Qiaoqiao","Qi An'an"
+parents="Xi Zhongxun","Qi Xin"
+}
+
+
+Angela Merkel{
+gender=
+sexual orientation=
+age=65
+nationality=DE
+personality=
+popularity=67
+ideology=socialist
+money=11000000
+occupation=politician,scientist
+
+spouse="Joachim Sauer"
+childrens=
+siblings=
+parents="Herlind Jentzsch","Horst Kasner"
+}
+
+
+Jeff Bezos{
+gender=
+sexual orientation=
+age=55
+nationality=US
+personality=
+popularity=70
+ideology=liberal
+money=178500000000
+occupation=bussinesman
+
+spouse="MacKenzie Tuttle"
+childrens=
+siblings=
+parents=
+}
+
+
+{
+name=
+age=
+nationality=
+personality=
+popularity=
+ideology=
+money=
+occupation=politician
+
+spouse=
+childrens=
+siblings=
+parents="",""
+}

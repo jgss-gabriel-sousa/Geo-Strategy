@@ -1,0 +1,7 @@
+core=TR
+claim=TR
+population=60154997
+area=706172
+color=48,160,96
+cities{
+}

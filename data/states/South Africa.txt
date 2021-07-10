@@ -1,0 +1,7 @@
+core=ZA
+claim=ZA
+population=58775022
+area=1216397
+color=208,32,17
+cities{
+}

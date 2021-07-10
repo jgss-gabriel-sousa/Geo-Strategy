@@ -1,0 +1,7 @@
+core=FO
+claim=FO
+population=52337
+area=1392
+color=139,119,144
+cities{
+}

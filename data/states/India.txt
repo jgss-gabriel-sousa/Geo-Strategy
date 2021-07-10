@@ -1,0 +1,10 @@
+name=India
+core=IN
+claim=IN
+population=0
+area=0
+color=176,48,160
+cities{
+}
+productions{
+}

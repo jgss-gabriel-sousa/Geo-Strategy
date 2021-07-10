@@ -1,0 +1,13 @@
+name=HAWAII
+core=US
+claim=US,HW
+population=1415872
+area=16638
+color=159,38,73
+cities{
+}
+mapPoints{
+}
+productions{
+;
+}

@@ -1,0 +1,7 @@
+core=RU
+claim=RU
+population=955281
+area=15100
+color=65,33,160
+cities{
+}

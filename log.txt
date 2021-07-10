@@ -1,0 +1,848 @@
+Font Loaded to Asset Manager with tag: "arial" from: "resources/fonts/arial.ttf"
+Audio Loaded to Asset Manager with tag: "missing" from: "resources/audios/missing.wav"
+Font Loaded to Asset Manager with tag: "NotoSans" from: "resources/fonts/NotoSans.ttf"
+English-ENG-England
+Portuguese-ENG-Inglaterra
+Loading AB
+error in Abkhazia
+Loading AD
+Loading AE
+Error in data/countries/AE.txt file: Line=}
+Loading AF
+error in Afghanistan
+Loading AG
+Error in data/countries/AG.txt file: Line=}
+Loading AI
+Error in data/countries/AI.txt file: Line=}
+Loading AK
+Error in data/countries/AK.txt file: Line=}
+Loading AL
+Error in data/countries/AL.txt file: Line=}
+Loading AM
+Error in data/countries/AM.txt file: Line=}
+Loading AO
+Error in data/countries/AO.txt file: Line=}
+Loading AQ
+Error in data/countries/AQ.txt file: Line=}
+Loading AR
+Error in data/countries/AR.txt file: Line=}
+Loading AS
+Error in data/countries/AS.txt file: Line=}
+Loading AT
+Error in data/countries/AT.txt file: Line=}
+Loading AU
+Error in data/countries/AU.txt file: Line=}
+Loading AW
+Error in data/countries/AW.txt file: Line=}
+Loading AZ
+Error in data/countries/AZ.txt file: Line=}
+Loading BA
+Error in data/countries/BA.txt file: Line=}
+Loading BB
+Error in data/countries/BB.txt file: Line=}
+Loading BD
+Error in data/countries/BD.txt file: Line=}
+Loading BE
+Error in data/countries/BE.txt file: Line=}
+Loading BF
+Error in data/countries/BF.txt file: Line=}
+Loading BG
+Error in data/countries/BG.txt file: Line=}
+Loading BH
+Error in data/countries/BH.txt file: Line=}
+Loading BI
+Error in data/countries/BI.txt file: Line=}
+Loading BJ
+Error in data/countries/BJ.txt file: Line=}
+Loading BL
+Error in data/countries/BL.txt file: Line=}
+Loading BM
+Error in data/countries/BM.txt file: Line=}
+Loading BN
+Error in data/countries/BN.txt file: Line=}
+Loading BO
+Error in data/countries/BO.txt file: Line=}
+Loading BQ
+Error in data/countries/BQ.txt file: Line=}
+Loading BR
+error in Brazil
+error in Sul
+error in Nordeste
+error in Amazonia
+Loading BS
+Error in data/countries/BS.txt file: Line=}
+Loading BT
+Error in data/countries/BT.txt file: Line=}
+Loading BV
+Error in data/countries/BV.txt file: Line=}
+Loading BW
+Error in data/countries/BW.txt file: Line=}
+Loading BY
+Error in data/countries/BY.txt file: Line=}
+Loading BZ
+Error in data/countries/BZ.txt file: Line=}
+Loading CA
+Error in data/countries/CA.txt file: Line=}
+Loading CAT
+Error in data/countries/CAT.txt file: Line=}
+Loading CD
+Error in data/countries/CD.txt file: Line=}
+Loading CF
+Error in data/countries/CF.txt file: Line=}
+Loading CG
+Error in data/countries/CG.txt file: Line=}
+Loading CH
+Error in data/countries/CH.txt file: Line=}
+Loading CI
+Error in data/countries/CI.txt file: Line=}
+Loading CK
+Error in data/countries/CK.txt file: Line=}
+Loading CL
+Error in data/countries/CL.txt file: Line=}
+Loading CM
+Error in data/countries/CM.txt file: Line=}
+Loading CN
+error in China
+error in Tibet
+error in Guangdong
+Loading CO
+Error in data/countries/CO.txt file: Line=}
+Loading CR
+Error in data/countries/CR.txt file: Line=}
+Loading CU
+Error in data/countries/CU.txt file: Line=}
+Loading CV
+Error in data/countries/CV.txt file: Line=}
+Loading CW
+Error in data/countries/CW.txt file: Line=}
+Loading CY
+Error in data/countries/CY.txt file: Line=}
+Loading CZ
+Error in data/countries/CZ.txt file: Line=}
+Loading DE
+Error in data/countries/DE.txt file: Line=}
+Loading DJ
+Error in data/countries/DJ.txt file: Line=}
+Loading DK
+Error in data/countries/DK.txt file: Line=}
+Loading DM
+Error in data/countries/DM.txt file: Line=}
+Loading DN
+Error in data/countries/DN.txt file: Line=}
+Loading DO
+Error in data/countries/DO.txt file: Line=}
+Loading DZ
+Error in data/countries/DZ.txt file: Line=}
+Loading EC
+Error in data/countries/EC.txt file: Line=}
+Loading EE
+Error in data/countries/EE.txt file: Line=}
+Loading EG
+Error in data/countries/EG.txt file: Line=}
+Loading EH
+Error in data/countries/EH.txt file: Line=}
+Loading ENG
+Error in data/countries/ENG.txt file: Line=}
+Loading ER
+Error in data/countries/ER.txt file: Line=}
+Loading ES
+Error in data/countries/ES.txt file: Line=}
+Loading ET
+Error in data/countries/ET.txt file: Line=}
+Loading FI
+Error in data/countries/FI.txt file: Line=}
+Loading FJ
+Error in data/countries/FJ.txt file: Line=}
+Loading FK
+Error in data/countries/FK.txt file: Line=}
+Loading FM
+Error in data/countries/FM.txt file: Line=}
+Loading FO
+Error in data/countries/FO.txt file: Line=}
+Loading FR
+Error in data/countries/FR.txt file: Line=}
+Loading GA
+Error in data/countries/GA.txt file: Line=}
+Loading GB
+Error in data/countries/GB.txt file: Line=}
+Loading GD
+Error in data/countries/GD.txt file: Line=}
+Loading GE
+Error in data/countries/GE.txt file: Line=}
+Loading GF
+Error in data/countries/GF.txt file: Line=}
+Loading GG
+Error in data/countries/GG.txt file: Line=}
+Loading GH
+Error in data/countries/GH.txt file: Line=}
+Loading GI
+Error in data/countries/GI.txt file: Line=}
+Loading GL
+Error in data/countries/GL.txt file: Line=}
+Loading GM
+Error in data/countries/GM.txt file: Line=}
+Loading GN
+Error in data/countries/GN.txt file: Line=}
+Loading GP
+Error in data/countries/GP.txt file: Line=}
+Loading GQ
+Error in data/countries/GQ.txt file: Line=}
+Loading GR
+Error in data/countries/GR.txt file: Line=}
+Loading GS
+Error in data/countries/GS.txt file: Line=}
+Loading GT
+Error in data/countries/GT.txt file: Line=}
+Loading GU
+Error in data/countries/GU.txt file: Line=}
+Loading GW
+Error in data/countries/GW.txt file: Line=}
+Loading GY
+Error in data/countries/GY.txt file: Line=}
+Loading HK
+Error in data/countries/HK.txt file: Line=}
+Loading HM
+Error in data/countries/HM.txt file: Line=}
+Loading HN
+Error in data/countries/HN.txt file: Line=}
+Loading HR
+Error in data/countries/HR.txt file: Line=}
+Loading HT
+Error in data/countries/HT.txt file: Line=}
+Loading HTR
+Error in data/countries/HTR.txt file: Line=}
+Loading HU
+Error in data/countries/HU.txt file: Line=}
+Loading ID
+Error in data/countries/ID.txt file: Line=}
+Loading IE
+Error in data/countries/IE.txt file: Line=}
+Loading IL
+Error in data/countries/IL.txt file: Line=}
+Loading IM
+Error in data/countries/IM.txt file: Line=}
+Loading IN
+error in India
+error in Kashmir
+Loading IO
+Error in data/countries/IO.txt file: Line=}
+Loading IQ
+Error in data/countries/IQ.txt file: Line=}
+Loading IR
+Error in data/countries/IR.txt file: Line=}
+Loading IS
+Error in data/countries/IS.txt file: Line=}
+Loading IT
+Error in data/countries/IT.txt file: Line=}
+Loading JE
+Error in data/countries/JE.txt file: Line=}
+Loading JM
+Error in data/countries/JM.txt file: Line=}
+Loading JO
+Error in data/countries/JO.txt file: Line=}
+Loading JP
+error in Hokkaido
+error in Tohoku
+error in Kanto
+error in Chubu
+error in Kansai
+error in Chugoku
+error in Shikoku
+error in Kyushu
+Loading KE
+Error in data/countries/KE.txt file: Line=}
+Loading KG
+Error in data/countries/KG.txt file: Line=}
+Loading KH
+Error in data/countries/KH.txt file: Line=}
+Loading KI
+Error in data/countries/KI.txt file: Line=}
+Loading KK
+Error in data/countries/KK.txt file: Line=}
+Loading KM
+Error in data/countries/KM.txt file: Line=}
+Loading KN
+Error in data/countries/KN.txt file: Line=}
+Loading KOM
+Error in data/countries/KOM.txt file: Line=}
+Loading KP
+Error in data/countries/KP.txt file: Line=}
+Loading KR
+Error in data/countries/KR.txt file: Line=}
+Loading KW
+Error in data/countries/KW.txt file: Line=}
+Loading KY
+Error in data/countries/KY.txt file: Line=}
+Loading KZ
+Error in data/countries/KZ.txt file: Line=}
+Loading LA
+Error in data/countries/LA.txt file: Line=}
+Loading LB
+Error in data/countries/LB.txt file: Line=}
+Loading LC
+Error in data/countries/LC.txt file: Line=}
+Loading LG
+Error in data/countries/LG.txt file: Line=}
+Loading LI
+Error in data/countries/LI.txt file: Line=}
+Loading LK
+Error in data/countries/LK.txt file: Line=}
+Loading LL
+error in Liberland
+Loading LR
+Error in data/countries/LR.txt file: Line=}
+Loading LS
+Error in data/countries/LS.txt file: Line=}
+Loading LT
+Error in data/countries/LT.txt file: Line=}
+Loading LU
+Error in data/countries/LU.txt file: Line=}
+Loading LV
+Error in data/countries/LV.txt file: Line=}
+Loading LY
+Error in data/countries/LY.txt file: Line=}
+Loading MA
+Error in data/countries/MA.txt file: Line=}
+Loading MC
+Error in data/countries/MC.txt file: Line=}
+Loading MD
+Error in data/countries/MD.txt file: Line=}
+Loading ME
+Error in data/countries/ME.txt file: Line=}
+Loading MF
+Error in data/countries/MF.txt file: Line=}
+Loading MG
+Error in data/countries/MG.txt file: Line=}
+Loading MH
+Error in data/countries/MH.txt file: Line=}
+Loading MK
+Error in data/countries/MK.txt file: Line=}
+Loading ML
+Error in data/countries/ML.txt file: Line=}
+Loading MM
+Error in data/countries/MM.txt file: Line=}
+Loading MN
+Error in data/countries/MN.txt file: Line=}
+Loading MO
+Error in data/countries/MO.txt file: Line=}
+Loading MP
+Error in data/countries/MP.txt file: Line=}
+Loading MQ
+Error in data/countries/MQ.txt file: Line=}
+Loading MR
+Error in data/countries/MR.txt file: Line=}
+Loading MS
+Error in data/countries/MS.txt file: Line=}
+Loading MT
+Error in data/countries/MT.txt file: Line=}
+Loading MU
+Error in data/countries/MU.txt file: Line=}
+Loading MV
+Error in data/countries/MV.txt file: Line=}
+Loading MW
+Error in data/countries/MW.txt file: Line=}
+Loading MX
+Error in data/countries/MX.txt file: Line=}
+Loading MY
+Error in data/countries/MY.txt file: Line=}
+Loading MZ
+Error in data/countries/MZ.txt file: Line=}
+Loading NA
+Error in data/countries/NA.txt file: Line=}
+Loading NC
+Error in data/countries/NC.txt file: Line=}
+Loading NE
+Error in data/countries/NE.txt file: Line=}
+Loading NF
+Error in data/countries/NF.txt file: Line=}
+Loading NG
+Error in data/countries/NG.txt file: Line=}
+Loading NI
+Error in data/countries/NI.txt file: Line=}
+Loading NIR
+Error in data/countries/NIR.txt file: Line=}
+Loading NL
+Error in data/countries/NL.txt file: Line=}
+Loading NO
+Error in data/countries/NO.txt file: Line=}
+Loading NP
+Error in data/countries/NP.txt file: Line=}
+Loading NR
+Error in data/countries/NR.txt file: Line=}
+Loading NU
+Error in data/countries/NU.txt file: Line=}
+Loading NZ
+Error in data/countries/NZ.txt file: Line=}
+Loading OM
+Error in data/countries/OM.txt file: Line=}
+Loading OST
+Error in data/countries/OST.txt file: Line=}
+Loading PA
+Error in data/countries/PA.txt file: Line=}
+Loading PE
+Error in data/countries/PE.txt file: Line=}
+Loading PF
+Error in data/countries/PF.txt file: Line=}
+Loading PG
+Error in data/countries/PG.txt file: Line=}
+Loading PH
+Error in data/countries/PH.txt file: Line=}
+Loading PK
+Error in data/countries/PK.txt file: Line=}
+Loading PL
+Error in data/countries/PL.txt file: Line=}
+Loading PM
+Error in data/countries/PM.txt file: Line=}
+Loading PN
+Error in data/countries/PN.txt file: Line=}
+Loading PR
+Error in data/countries/PR.txt file: Line=}
+Loading PS
+Error in data/countries/PS.txt file: Line=}
+Loading PT
+Error in data/countries/PT.txt file: Line=}
+Loading PW
+Error in data/countries/PW.txt file: Line=}
+Loading PY
+Error in data/countries/PY.txt file: Line=}
+Loading QA
+Error in data/countries/QA.txt file: Line=}
+Loading RE
+Error in data/countries/RE.txt file: Line=}
+Loading RO
+Error in data/countries/RO.txt file: Line=}
+Loading RS
+Error in data/countries/RS.txt file: Line=}
+Loading RU
+error in Russia
+error in Saint Petersburg
+error in Karelia
+error in Murmansk
+error in Crimea
+error in Chechnya
+error in Kaliningrad
+error in Ural
+error in North Caucasus
+error in Siberia
+Loading RW
+Error in data/countries/RW.txt file: Line=}
+Loading SA
+Error in data/countries/SA.txt file: Line=}
+Loading SB
+Error in data/countries/SB.txt file: Line=}
+Loading SC
+Error in data/countries/SC.txt file: Line=}
+Loading SCT
+Error in data/countries/SCT.txt file: Line=}
+Loading SD
+Error in data/countries/SD.txt file: Line=}
+Loading SE
+Error in data/countries/SE.txt file: Line=}
+Loading SEA
+Error in data/countries/SEA.txt file: Line=}
+Loading SEB
+Error in data/countries/SEB.txt file: Line=}
+Loading SG
+Error in data/countries/SG.txt file: Line=}
+Loading SH
+Error in data/countries/SH.txt file: Line=}
+Loading SI
+Error in data/countries/SI.txt file: Line=}
+Loading SJ
+Error in data/countries/SJ.txt file: Line=}
+Loading SK
+Error in data/countries/SK.txt file: Line=}
+Loading SL
+Error in data/countries/SL.txt file: Line=}
+Loading SM
+Error in data/countries/SM.txt file: Line=}
+Loading SML
+Error in data/countries/SML.txt file: Line=}
+Loading SN
+Error in data/countries/SN.txt file: Line=}
+Loading SO
+Error in data/countries/SO.txt file: Line=}
+Loading SR
+Error in data/countries/SR.txt file: Line=}
+Loading SS
+Error in data/countries/SS.txt file: Line=}
+Loading ST
+Error in data/countries/ST.txt file: Line=}
+Loading SV
+Error in data/countries/SV.txt file: Line=}
+Loading SX
+Error in data/countries/SX.txt file: Line=}
+Loading SY
+Error in data/countries/SY.txt file: Line=}
+Loading SZ
+Error in data/countries/SZ.txt file: Line=}
+Loading TC
+Error in data/countries/TC.txt file: Line=}
+Loading TD
+Error in data/countries/TD.txt file: Line=}
+Loading TF
+Error in data/countries/TF.txt file: Line=}
+Loading TG
+Error in data/countries/TG.txt file: Line=}
+Loading TH
+Error in data/countries/TH.txt file: Line=}
+Loading TJ
+Error in data/countries/TJ.txt file: Line=}
+Loading TK
+Error in data/countries/TK.txt file: Line=}
+Loading TL
+Error in data/countries/TL.txt file: Line=}
+Loading TM
+Error in data/countries/TM.txt file: Line=}
+Loading TN
+Error in data/countries/TN.txt file: Line=}
+Loading TO
+Error in data/countries/TO.txt file: Line=}
+Loading TR
+Error in data/countries/TR.txt file: Line=}
+Loading TS
+Error in data/countries/TS.txt file: Line=}
+Loading TT
+Error in data/countries/TT.txt file: Line=}
+Loading TV
+Error in data/countries/TV.txt file: Line=}
+Loading TW
+Error in data/countries/TW.txt file: Line=}
+Loading TZ
+Error in data/countries/TZ.txt file: Line=}
+Loading UA
+Error in data/countries/UA.txt file: Line=}
+Loading UG
+Error in data/countries/UG.txt file: Line=}
+Loading US
+error in US Mainland
+error in Alaska
+error in Hawaii
+error in Texas
+error in California
+error in New England
+Loading UY
+Error in data/countries/UY.txt file: Line=}
+Loading UZ
+Error in data/countries/UZ.txt file: Line=}
+Loading VA
+error in Vatican
+Loading VC
+Error in data/countries/VC.txt file: Line=}
+Loading VE
+Error in data/countries/VE.txt file: Line=}
+Loading VG
+Error in data/countries/VG.txt file: Line=}
+Loading VI
+Error in data/countries/VI.txt file: Line=}
+Loading VN
+Error in data/countries/VN.txt file: Line=}
+Loading VU
+Error in data/countries/VU.txt file: Line=}
+Loading WF
+Error in data/countries/WF.txt file: Line=}
+Loading WLS
+Error in data/countries/WLS.txt file: Line=}
+Loading WS
+Error in data/countries/WS.txt file: Line=}
+Loading XK
+Error in data/countries/XK.txt file: Line=}
+Loading YE
+Error in data/countries/YE.txt file: Line=}
+Loading YT
+Error in data/countries/YT.txt file: Line=}
+Loading ZA
+Error in data/countries/ZA.txt file: Line=}
+Loading ZM
+Error in data/countries/ZM.txt file: Line=}
+Loading ZW
+Error in data/countries/ZW.txt file: Line=}
+Audio Loaded to Asset Manager with tag: "song (0)" from: "resources/audios/songs/song (0).ogg"
+Audio Loaded to Asset Manager with tag: "song (1)" from: "resources/audios/songs/song (1).ogg"
+Audio Loaded to Asset Manager with tag: "song (2)" from: "resources/audios/songs/song (2).ogg"
+Audio Loaded to Asset Manager with tag: "song (3)" from: "resources/audios/songs/song (3).ogg"
+Audio Loaded to Asset Manager with tag: "song (4)" from: "resources/audios/songs/song (4).ogg"
+Audio Loaded to Asset Manager with tag: "song (5)" from: "resources/audios/songs/song (5).ogg"
+Audio Loaded to Asset Manager with tag: "song (6)" from: "resources/audios/songs/song (6).ogg"
+Audio Loaded to Asset Manager with tag: "song (7)" from: "resources/audios/songs/song (7).ogg"
+Audio Loaded to Asset Manager with tag: "song (8)" from: "resources/audios/songs/song (8).ogg"
+Audio Loaded to Asset Manager with tag: "song (9)" from: "resources/audios/songs/song (9).ogg"
+Error in UI::Button argument "Lulonaro"
+Song: 8
+
+----------------------
+
+	vehicles - (Afghanistan) Industry
+   employess: 1500.000000
+maxEmployess: 1651.000000
+salary avg: 0.000000
+cash: 1.000000
+profit: 1500.000000
+balance: 1500.000000
+taxes: 0.000000
+vehicles value = 9001.000000M
+
+----------------------
+
+	textiles - (Afghanistan) Industry
+   employess: 312500.000000
+maxEmployess: 338751.000000
+salary avg: 0.000000
+cash: 1.000000
+profit: 50000.000000
+balance: 50000.000000
+taxes: 0.000000
+textiles value = 300001.000000M
+
+----------------------
+
+	chemicals - (Afghanistan) Industry
+   employess: 3500.000000
+maxEmployess: 7001.000000
+salary avg: 0.000000
+cash: 1.000000
+profit: 5000.000000
+balance: 5000.000000
+taxes: 0.000000
+chemicals value = 30001.000000M
+
+----------------------
+
+	fruits
+         qty: 50000.000000
+   employess: 0.000000
+maxEmployess: 52750000.000000
+salary cost: 0.000000
+cash: 1.000000
+profit: 640000.000000
+balance: 640000.000000
+fruits value = 3840001.000000M
+
+----------------------
+
+	coal
+         qty: 2300.000000
+   employess: 0.000000
+maxEmployess: 1161500.000000
+salary cost: 0.000000
+cash: 1.000000
+profit: 75000.000000
+balance: 75000.000000
+coal value = 450001.000000M
+
+----------------------
+
+	cotton
+         qty: 7667.000000
+   employess: 0.000000
+maxEmployess: 8088685.000000
+salary cost: 0.000000
+cash: 1.000000
+profit: 60000.000000
+balance: 60000.000000
+cotton value = 360001.000000M
+
+----------------------
+
+	cattle
+         qty: 100.000000
+   employess: 0.000000
+maxEmployess: 105500.000000
+salary cost: 0.000000
+cash: 1.000000
+profit: 1980.000000
+balance: 1980.000000
+cattle value = 11881.000000M
+
+----------------------
+
+	fruits
+         qty: 470000.000000
+   employess: 0.000000
+maxEmployess: 495850000.000000
+salary cost: 0.000000
+cash: 1.000000
+profit: 3760000.000000
+balance: 3760000.000000
+fruits value = 22560001.000000M
+
+----------------------
+
+	fruits
+         qty: 134400.000000
+   employess: 0.000000
+maxEmployess: 141792000.000000
+salary cost: 0.000000
+cash: 1.000000
+profit: 860160.000000
+balance: 860160.000000
+fruits value = 5160961.000000M
+
+----------------------
+
+	fruits
+         qty: 260000.000000
+   employess: 0.000000
+maxEmployess: 274300000.000000
+salary cost: 0.000000
+cash: 1.000000
+profit: 1331200.000000
+balance: 1331200.000000
+fruits value = 7987201.000000M
+
+----------------------
+
+	rice
+         qty: 114000.000000
+   employess: 0.000000
+maxEmployess: 120270000.000000
+salary cost: 0.000000
+cash: 1.000000
+profit: 684000.000000
+balance: 684000.000000
+rice value = 4104001.000000M
+
+----------------------
+
+	fruits
+         qty: 96000.000000
+   employess: 0.000000
+maxEmployess: 101280000.000000
+salary cost: 0.000000
+cash: 1.000000
+profit: 614400.000000
+balance: 614400.000000
+fruits value = 3686401.000000M
+
+----------------------
+
+	vehicles - (Afghanistan) Industry
+   employess: 1500.000000
+maxEmployess: 1651.000000
+salary avg: 2106.666667
+cash: 1501.000000
+profit: 1363.636364
+balance: -879612.771874
+taxes: 0.000000
+vehicles value = 20865682.818182M
+
+----------------------
+
+	textiles - (Afghanistan) Industry
+   employess: 312500.000000
+maxEmployess: 338751.000000
+salary avg: 2106.666667
+cash: 50001.000000
+profit: 40000.000000
+balance: -153792048.000000
+taxes: 0.000000
+textiles value = 4282090001.000000M
+
+----------------------
+
+	chemicals - (Afghanistan) Industry
+   employess: 3500.000000
+maxEmployess: 7001.000000
+salary avg: 2106.666667
+cash: 5001.000000
+profit: 3200.000000
+balance: -8797490.000000
+taxes: 0.000000
+chemicals value = 88504201.000000M
+
+----------------------
+
+	fruits
+         qty: 100000.000000
+   employess: 7511332.842871
+maxEmployess: 52750000.000000
+salary cost: 7523626509.718732
+cash: 640001.000000
+profit: 512000.000000
+balance: -7523114509.718732
+fruits value = 94946959134.889893M
+
+----------------------
+
+	coal
+         qty: 2300.000000
+   employess: 34816.421436
+maxEmployess: 1161500.000000
+salary cost: 115632842.871036
+cash: 75001.000000
+profit: 48000.000000
+balance: -115584842.871036
+coal value = 440442567.944950M
+
+----------------------
+
+	cotton
+         qty: 7667.000000
+   employess: 38335.000000
+maxEmployess: 8088685.000000
+salary cost: 153340000.000000
+cash: 60001.000000
+profit: 38400.000000
+balance: -153301600.000000
+cotton value = 484844801.000000M
+
+----------------------
+
+	cattle
+         qty: 100.000000
+   employess: 105500.000000
+maxEmployess: 105500.000000
+salary cost: 44000000.000000
+cash: 1981.000000
+profit: 1584.000000
+balance: -43998416.000000
+cattle value = 1333531485.000000M
+
+----------------------
+
+	fruits
+         qty: 268800.000000
+   employess: 5644684.662000
+maxEmployess: 141792000.000000
+salary cost: 12633369324.000000
+cash: 860161.000000
+profit: 469100.047894
+balance: -12632900223.952106
+fruits value = 71352488888.967361M
+
+----------------------
+
+	fruits
+         qty: 519999.000000
+   employess: 1300000.000000
+maxEmployess: 274300000.000000
+salary cost: 5200000000.000000
+cash: 1331201.000000
+profit: 911650.263815
+balance: -5199088349.736185
+fruits value = 16438801102.582888M
+
+----------------------
+
+	rice
+         qty: 228000.000000
+   employess: 570000.000000
+maxEmployess: 120270000.000000
+salary cost: 2280000000.000000
+cash: 684001.000000
+profit: 547200.000000
+balance: -2279452800.000000
+rice value = 7208767200.999999M
+
+----------------------
+
+	fruits
+         qty: 191999.000000
+   employess: 480000.000000
+maxEmployess: 101280000.000000
+salary cost: 1920000000.000000
+cash: 614401.000000
+profit: 530663.739970
+balance: -1919469336.260030
+fruits value = 6070998383.439817M
+Song: 2

@@ -1,0 +1,7 @@
+core=PY
+claim=PY
+population=7252672
+area=397397
+color=205,31,230
+cities{
+}

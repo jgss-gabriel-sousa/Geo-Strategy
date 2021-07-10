@@ -1,0 +1,7 @@
+core=CAT,ES
+claim=CAT,ES
+population=7675217
+area=32114
+color=17,224,65
+cities{
+}

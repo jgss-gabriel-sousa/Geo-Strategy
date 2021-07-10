@@ -1,0 +1,7 @@
+core=AU
+claim=AU
+population=534281
+area=90758
+color=17,64,48
+cities{
+}

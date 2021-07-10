@@ -1,0 +1,7 @@
+core=PM
+claim=PM
+population=5997
+area=242
+color=128,32,192
+cities{
+}

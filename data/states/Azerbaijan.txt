@@ -1,0 +1,7 @@
+core=AZ
+claim=AZ
+population=9876942
+area=73756
+color=191,209,89
+cities{
+}

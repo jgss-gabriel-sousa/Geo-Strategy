@@ -1,0 +1,7 @@
+core=PE
+claim=PE
+population=32824358
+area=1.279.947
+color=128,128,208
+cities{
+}

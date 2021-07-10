@@ -1,0 +1,7 @@
+core=MR
+claim=MR
+population=4077347
+area=1029691
+color=239,48,64
+cities{
+}

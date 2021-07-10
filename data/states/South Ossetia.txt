@@ -1,0 +1,9 @@
+core=OST,GE
+claim=OST,GE
+population=53532
+area=3900
+terrain=mountain
+disasters=earthquake
+color=240,224,223
+cities{
+}

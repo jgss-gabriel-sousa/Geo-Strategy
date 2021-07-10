@@ -1,0 +1,139 @@
+//Geography
+Color=225,224,0
+Capital=Vatican City
+States=Vatican
+CapitalState=Vatican
+Culture{
+White=100
+}
+
+//Economy
+//GDP:PPP in Billions
+GDP=0.0315
+GDPGrowthRate=8
+//Revenue:PPP in Billions
+BudgetRevenue=0.315
+BudgetExpenditure=0.334
+DebtRate=0
+InflationRate=1
+LaborForceRate=40
+UnemploymentRate=0
+MinimumWage=0
+Gini=0
+Currency=EUR
+CountryReserves=0
+
+
+//Taxes
+ValueAddedTax=0
+CorporateTax=0
+IncomeTax=0
+IndustryTax=0
+ImportTax=0
+LargeFortunesTax=0
+InheritanceTax=0
+VehicleRegistrationTax=0
+VehicleOwnershipTax=0
+PropertyTax=0
+AirlineTicketTax=0
+AlcoholTax=0
+
+//Government
+GovernmentType=monarchy
+Header of State=Franciscus
+Title of Header of State=Pope
+HeaderTerm=-1
+MaxConsecutiveTerms=-1
+//0=Hereditary; 1=Parliament Voted; 2=People's Vote
+HeaderElectionSystem=1
+HeaderLastElection=2013
+//0=Hereditary; 1=Government Appointed; 2=Popular vote
+ParliamentElectionSystem=1
+ParliamentLastElection=2018
+ParliamentTerm=5
+ParliamentPower=1 //0=Consultation Only; 1=Only Propose Laws; 2=Only Vote Laws; 3=Propose and Vote Laws;
+SuffrageSystem=0 //0-Not;1-Only for Men;2-Universal
+SuffrageAge=18
+//LegalSystem,BroadcastMedia: 0-State Controlled;1-Part. Control;2-Independent
+LegalSystem=1
+BroadcastMedia=0
+Parties=
+Parliament{
+NONE=7
+}
+
+//Population
+ChildrensRate=0
+YoungRate=10
+AdultRate=60
+OldRate=30
+//Birth, Death, Migration: per 1000 population
+Birth=1.6
+Death=13.9
+Migration=13.69
+UrbanRate=100
+LifeExpectancy=77.5
+WaterRate=100
+PovertyRate=0
+//Refugees: in Thousands
+Refugees=0
+
+//Health
+HealthBudget=0
+//Doctors, HospitalBed: per 1000 population
+Doctors=0
+HospitalBed=0
+
+//Education
+EducationBudget=0
+LiteracyRate=100
+
+//Infrastructure
+SanitationRate=100
+EletricityRate=100
+EletricityProduction=0.4
+EletricityConsumption=0.8
+EletricityFossil=0
+EletricityNuclear=0
+EletricityHydroeletric=0
+EletricityWindPowered=0
+EletricitySolarPowered=100
+InternetRate=100
+MobilePhoneRate=100
+Airports=0
+Roads=0
+Expressways=0
+Railroads=0.3
+ElectrifiedRailroad=0
+Ports=0
+
+
+//Millitary
+MillitaryBudget=0
+MillitaryService=0
+MillitaryServiceAge=19
+ActivePersonnel=135
+ReservePersonnel=0
+Fighter=0
+AttackHelicopter=0
+Tank=0
+ArmoredVehicle=0
+SelfPropelledArtillery=0
+Artillery=0
+RocketProjector=0
+AircraftCarrier=0
+Ships=0
+Submarines=0
+
+
+Diplomacy{
+IT=100
+AF=-50
+SA=-50
+SO=-50
+OM=-50
+LA=-50
+BT=-50
+CN=-50
+KP=-50
+}

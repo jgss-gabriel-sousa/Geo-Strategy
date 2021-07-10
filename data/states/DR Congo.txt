@@ -1,0 +1,7 @@
+core=CD
+claim=CD
+population=101780263
+area=2274578
+color=1,96,208
+cities{
+}

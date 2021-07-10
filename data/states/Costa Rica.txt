@@ -1,0 +1,6 @@
+core=CR
+population=4999441
+area=47523
+color=239,144,220
+cities{
+}

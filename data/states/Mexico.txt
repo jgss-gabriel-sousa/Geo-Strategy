@@ -1,0 +1,7 @@
+core=MX
+claim=MX
+population=128649565
+area=1923236
+color=145,108,248
+cities{
+}

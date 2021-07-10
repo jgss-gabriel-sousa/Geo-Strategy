@@ -1,0 +1,7 @@
+core=ML
+claim=ML
+population=17963218
+area=1220349
+color=48,171,193
+cities{
+}

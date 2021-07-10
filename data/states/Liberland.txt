@@ -1,0 +1,9 @@
+core=LL
+claim=LL
+population=50
+area=7
+color=112,223,0
+cities{
+}
+productions{
+}

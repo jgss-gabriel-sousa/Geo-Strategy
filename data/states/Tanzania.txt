@@ -1,0 +1,7 @@
+core=TZ
+claim=TZ
+population=56313438
+area=886676
+color=97,33,143
+cities{
+}

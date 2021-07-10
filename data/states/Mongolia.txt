@@ -1,0 +1,7 @@
+core=MN
+claim=MN
+population=3353470
+area=1.555.508
+color=255,255,35
+cities{
+}

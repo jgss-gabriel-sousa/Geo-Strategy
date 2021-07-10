@@ -1,0 +1,7 @@
+core=DN
+claim=DN,UA
+population=2302444
+area=7853
+color=112,32,223
+cities{
+}

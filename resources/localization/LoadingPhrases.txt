@@ -1,0 +1,19 @@
+//STRING_TAG=Language1=Language2
+
+Languages:English,Portuguese
+
+LOADING_PHRASE_1=Declaring War on Sealand=Declarando Guerra contra Sealand
+LOADING_PHRASE_2=Declaring War on Liberland=Declarando Guerra contra Liberland
+LOADING_PHRASE_3=Changing sides in War=Mudando de lado na guerra
+LOADING_PHRASE_4=Visiting Cat-alonia /\ ___ /\=Visitando a Cat-alonia /\ ___ /\
+LOADING_PHRASE_5=Claiming Kashmir=Clamando a Caxemira
+LOADING_PHRASE_6=Thinking of funny phrases=Pensando em frases engraçadas
+LOADING_PHRASE_7=Developing a Geopolitical Simulator=Desenvolvendo um Simulador de Geopolítica
+LOADING_PHRASE_8=Borrowing from the IMF=Pedindo empréstimo ao FMI
+LOADING_PHRASE_9=Annexing neighboring countries=Anexando os países vizinhos
+LOADING_PHRASE_10=Discussing politics on social media=Discutindo política em rede social
+LOADING_PHRASE_11=Supporting a new game of geopolitics=Apoiando um novo jogo de geopolítica
+LOADING_PHRASE_12=Saving the game before the mess=Salvando o jogo antes da confusão
+LOADING_PHRASE_13=Nationalizing the industry=Nacionalizando a indústria
+LOADING_PHRASE_14=Privatizing the industry=Privatizando a indústria
+LOADING_PHRASE_15=Buying from the Black Market=Comprando do Mercado Negro

@@ -1,0 +1,7 @@
+core=DK
+claim=DK
+population=56081
+area=42933
+color=0,64,223
+cities{
+}

@@ -1,0 +1,7 @@
+core=IS
+claim=IS
+population=364134
+area=100000
+color=128,64,64
+cities{
+}

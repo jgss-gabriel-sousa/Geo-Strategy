@@ -1,0 +1,7 @@
+core=KZ
+claim=KZ
+population=18708352
+area=2678577
+color=192,144,192
+cities{
+}

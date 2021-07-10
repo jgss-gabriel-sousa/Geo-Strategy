@@ -1,0 +1,9 @@
+core=GE
+claim=GE
+population=3716858
+area=69700
+terrain=mountain
+disasters=earthquake
+color=128,16,0
+cities{
+}

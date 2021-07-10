@@ -1,0 +1,7 @@
+core=SD
+claim=SD
+population=41592539
+area=1886068 
+color=177,165,165
+cities{
+}

@@ -1,0 +1,7 @@
+core=KG
+claim=KG
+population=6533500
+area=192753
+color=89,155,157
+cities{
+}

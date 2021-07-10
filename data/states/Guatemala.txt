@@ -1,0 +1,7 @@
+core=GT
+claim=GT
+population=17263239
+area=108889
+color=136,147,59
+cities{
+}

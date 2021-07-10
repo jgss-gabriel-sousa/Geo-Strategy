@@ -1,0 +1,7 @@
+core=UA
+claim=UA
+population=37894499‬
+area=545144
+color=240,224,160
+cities{
+}

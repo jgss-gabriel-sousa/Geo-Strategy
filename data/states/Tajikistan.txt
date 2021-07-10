@@ -1,0 +1,7 @@
+core=TJ
+claim=TJ
+population=9537645
+area=140524
+color=176,144,32
+cities{
+}

@@ -1,0 +1,7 @@
+core=PF
+claim=PF
+population=275918
+area=3521
+color=160,0,176
+cities{
+}

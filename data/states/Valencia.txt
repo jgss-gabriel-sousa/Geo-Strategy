@@ -1,0 +1,7 @@
+core=ES
+claim=ES
+population=5003769
+area=23255
+color=223,239,128
+cities{
+}

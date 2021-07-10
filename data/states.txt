@@ -1,0 +1,166 @@
+Alaska
+US Mainland
+Hawaii
+California
+Texas
+New England
+Brazil
+Nordeste
+Sul
+Amazonia
+Afghanistan
+China
+Guangdong
+Tibet
+Hokkaido
+Tohoku
+Kanto
+Chubu
+Kansai
+Chugoku
+Shikoku
+Kyushu
+India
+Kashmir
+Abkhazia
+Liberland
+Mexico
+Canada
+Russia
+Karelia
+Siberia
+Crimea
+Ural
+Murmansk
+Saint Petersburg
+Kaliningrad
+Chechnya
+Crimea
+Argentina
+Patagonia
+Australia
+Tasmania
+Kazakhstan
+Algeria
+DR Congo
+Greenland
+Denmark
+Faroe Islands
+Nejd
+Hejaz
+West Papua
+Indonesia
+Sudan
+Tripolitana
+Cyrenaica
+Fezzan
+Iran
+Khuzestan
+Sistan and Baluchestan
+Mongolia
+Peru
+Chad
+Niger
+Angola
+Kabinda
+Mali
+South Africa
+Colombia
+Quebec
+Ethiopia
+Bolivia
+Mauritania
+Egypt
+Tanzania
+Nigeria
+Venezuela
+Namibia
+Mozambique
+Zulia
+Santa Cruz
+North Caucasus
+France
+Brittany
+Normandy
+Occitania
+Provence
+Burgundy
+Corsica
+Guadeloupe
+French Guiana
+Reunion
+Mayotte
+Martinique
+Saint-Pierre and Miquelon
+New Caledonia
+Wallis and Futuna
+Saint Martin
+Saint Barthelemy
+French Polynesia
+Azores
+Madeira
+Portugal
+Pakistan
+Balochistan
+Pakistan
+Sindh
+Gilgit-Baltistan
+Ukraine
+Lugansk
+Donetsk
+Ecuador
+Chile
+Paraguay
+Uruguay
+Suriname
+Guyana
+South Ossetia
+Tajikistan
+Kyrgyzstan
+Turkmenistan
+Uzbekistan
+Anatolia
+Marmara
+Armenia
+Artsakh
+Georgia
+Azerbaijan
+Galicia
+Catalonia
+Valencia
+Andalusia
+Aragon
+Balearic Islands
+Canary Islands
+Asturias
+Cantabria
+Basque Country
+Spain
+Sweden
+Norway
+Finland
+Iceland
+Scotland
+Ireland
+Northern Ireland
+Wales
+England
+Tunisia
+Panama
+Costa Rica
+Nicaragua
+Honduras
+El Salvador
+Belize
+Guatemala
+Cuba
+Sri Lanka
+Nepal
+Bhutan
+Bangladesh
+Mianmar
+Thailand
+Laos
+Cambodia
+Vietnam
+Vatican

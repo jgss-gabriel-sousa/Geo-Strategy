@@ -1,0 +1,7 @@
+core=ET
+claim=ET
+population=109224414
+area=1096570
+color=132,132,55
+cities{
+}

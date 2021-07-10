@@ -1,0 +1,7 @@
+core=SR
+claim=SR
+population=575990
+area=162019
+color=160,128,17
+cities{
+}

@@ -1,0 +1,7 @@
+core=CL
+claim=CL
+population=17574003
+area=748006
+color=32,128,112
+cities{
+}

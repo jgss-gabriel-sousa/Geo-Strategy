@@ -1,0 +1,7 @@
+core=TN
+claim=TN
+population=11722038
+area=155430
+color=192,80,32
+cities{
+}

@@ -1,0 +1,7 @@
+core=GB,ENG
+claim=ENG
+population=56286961
+area=130279
+color=224,32,64
+cities{
+}

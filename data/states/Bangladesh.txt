@@ -1,0 +1,7 @@
+core=BD
+claim=BD
+population=161376708
+area=138959
+color=48,176,160
+cities{
+}

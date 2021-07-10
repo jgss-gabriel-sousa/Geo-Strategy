@@ -1,0 +1,10 @@
+name=CHINA
+core=CN
+claim=CN
+population=0
+area=0
+color=208,81,1
+cities{
+}
+productions{
+}

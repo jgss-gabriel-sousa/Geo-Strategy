@@ -1,0 +1,7 @@
+core=NA
+claim=NA
+population=2746745
+area=825615
+color=48,192,80
+cities{
+}

@@ -1,0 +1,141 @@
+	//Generic
+
+FarLeft_Generic{
+name="Workers Party"
+ideology=communist
+popularity=5
+}
+
+Left_Generic{
+name="Social Democratic Party"
+ideology=socialist
+popularity=20
+}
+
+Populist_Generic{
+name="Social Party"
+ideology=populist
+popularity=30
+}
+
+Right_Generic{
+name="Right Party"
+ideology=conservative
+popularity=20
+}
+
+Liberal_Generic{
+name="Liberal Party"
+ideology=liberal
+popularity=20
+}
+
+FarRight_Generic{
+name="Nationalist Party"
+ideology=nationalist
+popularity=5
+}
+
+
+	//Abkhazia ################################################
+//FNUA,United Abkhazia
+
+AB_FNUA{
+name=fnua
+ideology=nationalist
+popularity=43
+leader=
+politicians=
+supporters=
+}
+
+AB_UnitedAbkhazia{
+name=United Abkhazia
+ideology=conservative
+popularity=53
+leader=
+politicians=
+supporters=
+}
+
+
+	//Afghanistan ################################################
+//National Coalition,Jamiat-e Islami,Islamic Dawa
+
+AF_NationalCoalition{
+name=NationalCoalition
+ideology=populism
+popularity=45
+leader=Abdullah Abdullah
+politicians=
+supporters=
+}
+
+AF_Jamiat-e Islami{
+name=Jamiat-e Islami
+ideology=theocrat
+popularity=5
+leader=
+politicians=
+supporters=
+}
+
+AF_Islamic Dawah{
+name=Islamic Dawah
+ideology=theocrat
+popularity=7
+leader=
+politicians=
+supporters=
+}
+
+	//United States ################################################
+US_Republican{
+name=US_Republican
+ideology=conservative
+popularity=46
+leader=
+politicians=
+supporters=
+}
+
+US_Democratic{
+name=US_Democratic
+ideology=socialist
+popularity=48
+leader=
+politicians=
+supporters=
+}
+
+US_Libertarian{
+name=LibertarianParty
+ideology=liberal
+popularity=3
+leader=
+politicians=
+supporters=
+}
+
+US_Green{
+name=GreenParty
+ideology=populist
+popularity=1
+leader=
+politicians=
+supporters=
+}
+
+
+	//
+
+
+//BR{
+MDB
+PSDB
+PT
+PP
+PDT
+PTB
+DEM
+//}

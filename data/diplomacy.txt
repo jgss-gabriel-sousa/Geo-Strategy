@@ -1,0 +1,34 @@
+MillitaryAlliances{
+US-AF
+IR-SY
+GB-PT
+GB-FR
+AU-NZ
+RU-SY
+US-IL
+US-JP
+US-PK
+US-PH
+US-KR
+US-TW
+RU-BY
+RU-LG
+RU-DN
+LG-DN
+KK-TR
+AK-AM
+RU-TS
+IT-VA
+IT-SM
+}
+
+MillitaryOrganizations{
+TAKM=TR,AZ,KG
+Peninsula Shield Force=SA,AE,QA,OM,KW,BH
+NATO=US,GB,FR,CA,BE,DK,IS,IT,LU,NL,NO,PT,TR,GR,DE,ES,CZ,HU,PL,BG,EE,LV,LT,RO,SK,SI,AL,HR,ME,MK
+ANZUS=US,NZ,AU
+}
+
+War{
+Western Sahara Conflict=SW;MA
+}

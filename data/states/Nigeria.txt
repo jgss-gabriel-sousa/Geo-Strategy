@@ -1,0 +1,7 @@
+core=NG
+claim=NG
+population=206630269
+area=910836
+color=64,96,144
+cities{
+}

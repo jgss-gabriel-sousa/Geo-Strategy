@@ -1,0 +1,7 @@
+core=GP
+claim=GP
+population=395700
+area=1628
+color=51,137,91
+cities{
+}

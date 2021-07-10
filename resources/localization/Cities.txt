@@ -1,0 +1,9 @@
+//STRING_TAG=Language1=Language2
+
+Languages:English,Portuguese
+
+New York=New York=Nova Iorque
+Philadelphia=Philadelphia=Filadélfia
+Kabul=Kabul=Cabul
+Algiers=Algiers=Argel
+Oran=Oran=Orã

@@ -1,0 +1,7 @@
+core=IR
+claim=IR
+population=4711000
+area=64055
+color=0,176,223
+cities{
+}

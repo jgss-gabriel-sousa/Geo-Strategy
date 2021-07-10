@@ -1,0 +1,7 @@
+core=TH
+claim=TH
+population=69758935
+area=511068
+color=80,112,96
+cities{
+}

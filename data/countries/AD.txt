@@ -1,0 +1,134 @@
+//Geography
+Color=231,206,105
+Capital=Andorra la Vella
+States=Andorra
+CapitalState=Andorra
+Culture=Andorran,Spanish,Portuguese,French
+
+//Economy
+//GDP:PPP in Billions
+GDP=3.327
+GDPGrowthRate=-1.1
+//Revenue:PPP in Billions
+BudgetRevenue=1.872
+BudgetExpenditure=2.06
+DebtRate=41
+InflationRate=-0.9
+LaborForceRate=51.6
+UnemploymentRate=3.7
+MinimumWage=1187
+Gini=27.21
+Currency=EUR
+CountryReserves=0
+InterestRate=0
+
+
+//Taxes
+ValueAddedTax=4.5
+CorporateTax=10
+IncomeTax=5
+IndustryTax=0
+ImportTax=0
+LargeFortunesTax=0
+InheritanceTax=0
+VehicleRegistrationTax=0
+VehicleOwnershipTax=0
+PropertyTax=10
+AirlineTicketTax=0
+AlcoholTax=10
+
+//Government
+GovernmentType=Parliamentarism
+Header of State=Xavier Espot Zamora
+Title of Header of State=Prime Minister
+HeaderTerm=4
+MaxConsecutiveTerms=1 //-1 to infinite terms
+HeaderElectionSystem=1 //0=Hereditary; 1=Parliament Voted; 2=People's Vote
+HeaderLastElection=2019
+ParliamentElectionSystem=2 //0=Hereditary; 1=Government Appointed; 2=Popular vote
+ParliamentLastElection=2019
+ParliamentTerm=4
+ParliamentPower=3 //0=Consultation Only; 1=Only Propose Laws; 2=Only Vote Laws; 3=Propose and Vote Laws;
+SuffrageSystem=2 //0=Not; 1=Only for Men; 2=Universal
+SuffrageAge=18
+//LegalSystem,BroadcastMedia: 0-State Controlled;1-Part. Control;2-Independent
+LegalSystem=2
+BroadcastMedia=2
+Parties=
+Parliament{
+Democrats=11
+Liberal=4
+Commited Citizens=2
+Social Democratic=7
+Lauredian Union=4
+}
+
+//Population
+ChildrensRate=13.4
+YoungRate=10.2
+AdultRate=59
+OldRate=17.4
+//Birth, Death, Migration: per 1000 population
+Birth=7
+Death=7.7
+Migration=0
+UrbanRate=87.9
+LifeExpectancy=83
+WaterRate=100
+PovertyRate=0
+//Refugees: in Thousands
+Refugees=0
+
+//Health
+HealthBudget=10.3
+//Doctors, HospitalBed: per 1000 population
+Doctors=3.33
+HospitalBed=2.5
+
+//Education
+EducationBudget=3.2
+LiteracyRate=100
+
+//Infrastructure
+SanitationRate=100
+EletricityRate=100
+EletricityProduction=0.099
+EletricityConsumption=0.222
+EletricityFossil=61
+EletricityNuclear=0
+EletricityHydroeletric=23
+EletricityRenewable=15
+InternetRate=98
+MobilePhoneRate=96
+Airports=0
+Roads=320
+Expressways=0
+Railroads=0
+ElectrifiedRailroad=0
+Ports=0
+
+
+//Millitary
+MillitaryBudget=0
+MillitaryService=0
+MillitaryServiceAge=0
+ActivePersonnel=0
+ReservePersonnel=0
+Fighter=0
+AttackHelicopter=0
+Tank=0
+ArmoredVehicle=0
+SelfPropelledArtillery=0
+Artillery=0
+RocketProjector=0
+AircraftCarrier=0
+Ships=0
+Submarines=0
+
+
+Diplomacy{
+FR=100
+ES=100
+VA=100
+PT=75
+}

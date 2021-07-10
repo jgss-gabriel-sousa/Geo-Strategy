@@ -1,0 +1,7 @@
+core=TD
+claim=TD
+population=14152314
+area=1259604
+color=192,160,80
+cities{
+}

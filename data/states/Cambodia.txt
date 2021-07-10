@@ -1,0 +1,7 @@
+core=KH
+claim=KH
+population=15288489
+area=176509
+color=239,239,32
+cities{
+}

@@ -1,0 +1,7 @@
+core=YT
+claim=YT
+population=279471
+area=374
+color=224,96,223
+cities{
+}

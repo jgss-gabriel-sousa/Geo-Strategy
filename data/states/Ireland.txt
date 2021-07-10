@@ -1,0 +1,7 @@
+core=IE
+claim=IE
+population=4761865
+area=68868
+color=96,224,64
+cities{
+}

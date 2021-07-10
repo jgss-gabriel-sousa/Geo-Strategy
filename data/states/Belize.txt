@@ -1,0 +1,7 @@
+core=BZ
+claim=BZ
+population=408487
+area=22782
+color=208,176,64
+cities{
+}

@@ -1,0 +1,7 @@
+core=NE
+claim=NE
+population=19899000
+area=1267000
+color=17,144,96
+cities{
+}

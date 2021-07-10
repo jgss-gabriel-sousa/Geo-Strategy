@@ -1,0 +1,7 @@
+core=RE
+claim=RE
+population=859959
+area=2511
+color=214,144,224
+cities{
+}

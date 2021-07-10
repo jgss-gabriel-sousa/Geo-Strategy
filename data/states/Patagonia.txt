@@ -1,0 +1,7 @@
+core=AR
+claim=AR
+population=1839320‬
+area=692905‬
+color=16,128,208
+cities{
+}

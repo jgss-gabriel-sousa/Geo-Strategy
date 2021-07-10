@@ -1,0 +1,6 @@
+core=NI
+population=6486201
+area=121066
+color=16,112,128
+cities{
+}

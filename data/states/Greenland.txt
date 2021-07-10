@@ -1,0 +1,7 @@
+core=GL
+claim=GL
+population=56081
+area=366068
+color=49,150,138
+cities{
+}

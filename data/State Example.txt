@@ -1,0 +1,7 @@
+core=
+claim=
+population=
+area=
+color=
+cities{
+}

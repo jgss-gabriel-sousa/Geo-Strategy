@@ -1,0 +1,7 @@
+core=TM
+claim=TM
+population=6031187
+area=467169
+color=191,175,160
+cities{
+}

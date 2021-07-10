@@ -1,0 +1,7 @@
+core=SE
+claim=SE
+population=10343403
+area=411119
+color=248,228,0
+cities{
+}

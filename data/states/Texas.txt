@@ -1,0 +1,17 @@
+name=TEXAS
+core=US
+claim=US,TX
+population=28304596
+area=676586
+color=86,24,157
+disasters=
+terrain=plain,arid
+
+cities{
+Houston
+San Antonio
+Dallas
+}
+productions{
+Oil=6210.18
+}

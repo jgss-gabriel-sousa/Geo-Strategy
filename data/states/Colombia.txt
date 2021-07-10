@@ -1,0 +1,7 @@
+core=CO
+claim=CO
+population=50372424
+area=1041274
+color=0,64,144
+cities{
+}

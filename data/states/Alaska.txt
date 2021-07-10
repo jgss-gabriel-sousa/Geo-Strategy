@@ -1,0 +1,12 @@
+core=US
+claim=US
+population=710249
+area=1481346
+color=173,141,87
+disasters=earthquake,volcano
+terrain=mountain,jungle
+cities{
+}
+productions{
+oil=1624
+}

@@ -1,0 +1,17 @@
+name=US_MAINLAND
+core=US
+claim=US
+population=258272153
+area=6973020
+color=55,255,114
+disasters=tornado
+terrain=plain
+
+cities{
+New York
+Phoenix
+Philadelphia
+}
+productions{
+;
+}

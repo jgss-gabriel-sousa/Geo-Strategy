@@ -1,0 +1,7 @@
+core=AO
+claim=AO
+population=801374
+area=7283
+color=64,96,112
+cities{
+}

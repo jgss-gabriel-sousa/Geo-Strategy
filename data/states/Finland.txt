@@ -1,0 +1,7 @@
+core=FI
+claim=FI
+population=5528737
+area=304582
+color=224,65,97
+cities{
+}

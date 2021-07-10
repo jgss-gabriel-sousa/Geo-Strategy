@@ -1,0 +1,15 @@
+//type{
+//speed=Km/h
+//range=Km
+//attackType=target(tank,infantary); barrage(bomber,artillery); missile;
+//attackPrecision=%
+//damage=
+//}
+
+tank{
+speed=50
+range=10
+fireRatio=1
+attackType=target
+attackPrecision=70
+}

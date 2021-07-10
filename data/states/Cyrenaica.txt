@@ -1,0 +1,7 @@
+core=LY
+claim=LY
+population=1609839‬
+area=691957‬
+color=32,144,32
+cities{
+}

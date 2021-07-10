@@ -1,0 +1,11 @@
+//STRING_TAG=Language1=Language2
+
+Languages:English,Portuguese
+
+ALASKA=Alaska=Alasca
+HAWAII=Hawaii=Havaí
+US_MAINLAND=US Mainland=EUA Continental
+AFGHANISTAN=Afghanistan=Afeganistão
+TEXAS=Texas=Texas
+BRAZIL=Brazil=Brasil
+CALIFORNIA=California=Califórnia

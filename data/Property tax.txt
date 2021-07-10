@@ -1,0 +1,16 @@
+Australia=0.25
+Brazil=0.65
+Canada=2.9
+Chile=1.5
+Egypt=0.5
+Greece=1
+Hong Kong=0.75
+India=0.4
+Ireland=0.22
+Jamaica=1
+Lithuania=0.9
+Luxembourg=4.92
+Czech Republic=0.75
+Netherlands=0.2
+United Kingdom=0.4
+United States=2

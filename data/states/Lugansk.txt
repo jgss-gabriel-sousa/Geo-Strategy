@@ -1,0 +1,7 @@
+core=LG,
+claim=LG,UA
+population=1464039
+area=8377
+color=113,97,224
+cities{
+}

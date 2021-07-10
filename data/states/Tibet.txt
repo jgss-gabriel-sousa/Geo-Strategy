@@ -1,0 +1,10 @@
+name=TIBET
+core=
+claim=CN
+population=0
+area=0
+color=32,112,224
+cities{
+}
+productions{
+}

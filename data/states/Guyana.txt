@@ -1,0 +1,7 @@
+core=GY
+claim=GY
+population=786391
+area=196913
+color=192,192,208
+cities{
+}

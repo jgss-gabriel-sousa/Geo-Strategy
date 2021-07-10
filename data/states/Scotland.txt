@@ -1,0 +1,7 @@
+core=GB,SCT
+claim=SCT
+population=5463300
+area=75595
+color=160,224,0
+cities{
+}

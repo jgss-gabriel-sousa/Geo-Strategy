@@ -1,0 +1,66 @@
+Government Types{
+	presidential republic
+	semi-presidential republic
+	parliamentary republic
+	theocratic republic
+	minarchy republic
+
+	presidential dictatorship
+	proletariat dictatorship
+	military dictatorship
+	fascist dictatorship
+
+	absolutist monarchy
+	constitutional monarchy
+	parlamentary monarchy	//semi-presidential republic
+	symbolic monarchy	//Parlamentarism
+	theocratic monarchy
+}
+
+Ideologies{
+	populist
+
+	socialist
+	communist
+
+	conservative
+	reactionary
+
+	liberal
+	anarcho-liberal
+
+	nationalist
+	fascist
+	
+	monarchists
+
+	theocrat
+}
+
+Personalities{
+	
+}
+
+Ministers{
+	prime minister
+	economy
+	defense
+	agriculture
+	health
+	energy
+	education
+	interior
+	infrastructure
+	justice
+	security
+	industry
+	culture
+	science
+	environment
+	work
+	women and minorities
+	development
+	social
+	foreign relations
+	technology
+}

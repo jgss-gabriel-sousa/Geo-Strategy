@@ -1,0 +1,7 @@
+core=NC
+claim=NC
+population=271407
+area=18275
+color=48,32,144
+cities{
+}

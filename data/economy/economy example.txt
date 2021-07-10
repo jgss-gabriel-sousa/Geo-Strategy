@@ -1,0 +1,14 @@
+iron=(thousand tonnes) = https://en.wikipedia.org/wiki/List_of_countries_by_iron_ore_production
+oil=Annual production in (millions of barrels) = https://en.wikipedia.org/wiki/List_of_countries_by_proven_oil_reserves
+gas=Annual production in (million m3) * 2 = https://en.wikipedia.org/wiki/List_of_countries_by_natural_gas_production
+coal=Annual production in (million tonnes) = https://en.wikipedia.org/wiki/List_of_countries_by_coal_production
+water=Total renewable water resources(km³) = https://en.wikipedia.org/wiki/List_of_countries_by_total_renewable_water_resources
+cattle=Head = https://www.drovers.com/article/world-cattle-inventory-ranking-countries-fao
+bauxite=thousand tonnes) = https://en.wikipedia.org/wiki/List_of_countries_by_bauxite_production
+limestone=https://www.statista.com/statistics/657049/production-of-lime-worldwide/#:~:text=The%20three%20leading%20lime%20producing,16%20million%20metric%20tons%2C%20respectively.
+corn=https://www.indexmundi.com/agriculture/?commodity=corn
+rice=https://www.indexmundi.com/agriculture/?commodity=milled-rice&graph=production
+wheat=https://www.indexmundi.com/agriculture/?commodity=wheat
+fruits=
+cotton=https://www.indexmundi.com/agriculture/?commodity=cotton&graph=production
+fish=https://www.indexmundi.com/agriculture/?commodity=fish-meal&graph=production

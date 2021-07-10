@@ -1,0 +1,7 @@
+core=UZ
+claim=UZ
+population=34036800
+area=426978
+color=65,80,64
+cities{
+}

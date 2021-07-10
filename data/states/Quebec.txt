@@ -1,0 +1,7 @@
+core=CA,QB
+claim=CA,QB
+population=8164361
+area=1365128
+color=26,168,203
+cities{
+}

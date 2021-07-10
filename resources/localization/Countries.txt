@@ -1,0 +1,283 @@
+﻿//STRING_TAG=Language1=Language2
+
+Languages:English,Portuguese
+
+AF=Afghanistan=Afeganistão
+AL=Albania=Albânia
+DZ=Algeria=Argélia
+AS=American Samoa=Samoa Americana
+AD=Andorra=Andorra
+AO=Angola=Angola
+AI=Anguilla=Anguilla
+AQ=Antarctica=Antártica
+AG=Antigua and Barbuda=Antígua e Barbuda
+AR=Argentina=Argentina
+AM=Armenia=Armênia
+AW=Aruba=Aruba
+AU=Australia=Austrália
+AT=Austria=Áustria
+AZ=Azerbaijan=Azerbaijão
+BS=Bahamas=Bahamas
+BH=Bahrain=Barém
+BD=Bangladesh=Bangladesh
+BB=Barbados=Barbados
+BY=Belarus=Bielorrússia
+BE=Belgium=Bélgica
+BZ=Belize=Belize
+BJ=Benin=Benin
+BM=Bermuda=Bermudas
+BT=Bhutan=Butão
+BO=Bolivia=Bolívia
+BA=Bosnia and Herzegovina=Bósnia e Herzegovina
+BW=Botswana=Botsuana
+BV=Bouvet Island=Ilha Bouvet
+BR=Brazil=Brasil
+IO=British Indian Ocean Territory=Território Britânico do Oceano Índico
+BN=Brunei Darussalam=Brunei Darussalam
+BG=Bulgaria=Bulgária
+BF=Burkina Faso=Burkina Faso
+BI=Burundi=Burundi
+KH=Cambodia=Camboja
+CM=Cameroon=Camarões
+CA=Canada=Canadá
+CV=Cape Verde=Cabo Verde
+KY=Cayman Islands=Ilhas Cayman
+CF=Central African Republic=República Centro-Africana
+TD=Chad=Chade
+CL=Chile=Chile
+CN=China=China
+CO=Colombia=Colômbia
+KM=Comoros=Comores
+CG=Congo=Congo
+CD=Democratic Republic of Congo=República Democrática do Congo
+CK=Cook Islands=Ilhas Cook
+CR=Costa Rica=Costa Rica
+CI=Ivory Coast=Costa do Marfim
+HR=Croatia=Croácia
+CU=Cuba=Cuba
+CY=Cyprus=Chipre
+CZ=Czechia=Tchéquia
+DK=Denmark=Dinamarca
+DJ=Djibouti=Djibuti
+DM=Dominica=Dominica
+DO=Dominican Republic=República Dominicana
+EC=Ecuador=Equador
+EG=Egypt=Egito
+SV=El Salvador=El Salvador
+GQ=Equatorial Guinea=Guiné Equatorial
+ER=Eritrea=Eritreia
+EE=Estonia=Estônia
+ET=Ethiopia=Etiópia
+FK=Falkland Islands=Ilhas Falkland
+FO=Faroe Islands=Ilhas Faroe
+FJ=Fiji=Fiji
+FI=Finland=Finlândia
+FR=France=França
+GF=French Guiana=Guiana Francesa
+PF=French Polynesia=Polinésia Francesa
+TF=French Southern Territories=Territórios Franceses do Sul
+GA=Gabon=Gabão
+GM=Gambia=Gâmbia
+GE=Georgia=Geórgia
+DE=Germany=Alemanha
+GH=Ghana=Gana
+GI=Gibraltar=Gibraltar
+GR=Greece=Grécia
+GL=Greenland=Gronelândia
+GD=Grenada=Granada
+GP=Guadeloupe=Guadalupe
+GU=Guam=Guam
+GT=Guatemala=Guatemala
+GG=Guernsey=Guernsey
+GN=Guinea=Guiné
+GW=Guinea-Bissau=Guiné-Bissau
+GY=Guyana=Guiana
+HT=Haiti=Haiti
+HM=Heard Island and McDonald Islands=Ilha Heard e Ilhas McDonald
+VA=Vatican=Vaticano
+HN=Honduras=Honduras
+HK=Hong Kong=Hong Kong
+HU=Hungary=Hungria
+IS=Iceland=Islândia
+IN=India=Índia
+ID=Indonesia=Indonésia
+IR=Iran=Irã
+IQ=Iraq=Iraque
+IE=Ireland=Irlanda
+IM=Isle of Man=Ilha de Man
+IL=Israel=Israel
+IT=Italy=Itália
+JM=Jamaica=Jamaica
+JP=Japan=Japão
+JE=Jersey=Jersey
+JO=Jordan=Jordânia
+KZ=Kazakhstan=Cazaquistão
+KE=Kenya=Quênia
+KI=Kiribati=Kiribati
+KP=North Korea=Coreia do Norte
+KR=South Korea=Coreia do Sul
+KW=Kuwait=Kuwait
+KG=Kyrgyzstan=Quirguistão
+LA=Laos=Laos
+LV=Latvia=Letônia
+LB=Lebanon=Líbano
+LS=Lesotho=Lesoto
+LR=Liberia=Libéria
+LY=Libya=Líbia
+LI=Liechtenstein=Liechtenstein
+LT=Lithuania=Lituânia
+LU=Luxembourg=Luxemburgo
+MO=Macao=Macau
+MK=North Macedonia=Macedônia do Norte
+MG=Madagascar=Madagáscar
+MW=Malawi=Malawi
+MY=Malaysia=Malásia
+MV=Maldives=Maldivas
+ML=Mali=Mali
+MT=Malta=Malta
+MH=Marshall Islands=Ilhas Marshall
+MQ=Martinique=Martinica
+MR=Mauritania=Mauritânia
+MU=Mauritius=Maurícia
+YT=Mayotte=Mayotte
+MX=Mexico=México
+FM=Micronesia=Micronésia
+MD=Moldova=Moldova
+MC=Monaco=Mônaco
+MN=Mongolia=Mongólia
+ME=Montenegro=Montenegro
+MS=Montserrat=Montserrat
+MA=Morocco=Marrocos
+MZ=Mozambique=Moçambique
+MM=Myanmar=Myanmar
+NA=Namibia=Namíbia
+NR=Nauru=Nauru
+NP=Nepal=Nepal
+NL=Netherlands=Países Baixos
+NC=New Caledonia=Nova Caledônia
+NZ=New Zealand=Nova Zelândia
+NI=Nicaragua=Nicarágua
+NE=Niger=Níger
+NG=Nigeria=Nigéria
+NU=Niue=Niue
+NF=Norfolk Island=Ilha Norfolk
+MP=Northern Mariana Islands=Ilhas Marianas do Norte
+NO=Norway=Noruega
+OM=Oman=Omã
+PK=Pakistan=Paquistão
+PW=Palau=Palau
+PS=Palestine=Palestina
+PA=Panama=Panamá
+PG=Papua New Guinea=Papua Nova Guiné
+PY=Paraguay=Paraguai
+PE=Peru=Peru
+PH=Philippines=Filipinas
+PN=Pitcairn=Pitcairn
+PL=Poland=Polônia
+PT=Portugal=Portugal
+PR=Puerto Rico=Porto Rico
+QA=Qatar=Catar
+RE=Reunion=Reunião
+RO=Romania=Romênia
+RU=Russia=Rússia
+RW=Rwanda=Ruanda
+BL=Saint Barthelemy=São Bartolomeu
+SH=Saint Helena, Ascension and Tristan da Cunha=Santa Helena, Ascensão e Tristão da Cunha
+KN=Saint Kitts and Nevis=São Cristóvão e Nevis
+LC=Saint Lucia=Santa Lúcia
+MF=Saint Martin=São Martinho Francês
+PM=Saint Pierre and Miquelon=São Pedro e Miquelon
+VC=Saint Vincent and the Grenadines=São Vicente e Granadinas
+WS=Samoa=Samoa
+SM=San Marino=San Marino
+ST=Sao Tome and Principe=São Tomé e Príncipe
+SA=Saudi Arabia=Arábia Saudita
+SN=Senegal=Senegal
+RS=Serbia=Sérvia
+SC=Seychelles=Seychelles
+SL=Sierra Leone=Serra Leoa
+SG=Singapore=Cingapura
+SK=Slovakia=Eslováquia
+SI=Slovenia=Eslovênia
+SB=Solomon Islands=Ilhas Salomão
+SO=Somalia=Somália
+ZA=South Africa=África do Sul
+GS=South Georgia and the South Sandwich Islands=Ilhas Geórgia do Sul e Sandwich do Sul
+ES=Spain=Espanha
+LK=Sri Lanka=Sri Lanka
+SD=Sudan=Sudão
+SR=Suriname=Suriname
+SZ=Eswatini=Eswatini
+SE=Sweden=Suécia
+CH=Switzerland=Suíça
+SY=Syria=Síria
+SS=South Sudan=Sudão do Sul
+TW=Taiwan=Taiwan
+TJ=Tajikistan=Tajiquistão
+TZ=Tanzania=Tanzânia
+TH=Thailand=Tailândia
+TL=Timor-Leste=Timor-Leste
+TG=Togo=Togo
+TK=Tokelau=Tokelau
+TO=Tonga=Tonga
+TT=Trinidad and Tobago=Trindade e Tobago
+TN=Tunisia=Tunísia
+TR=Turkey=Turquia
+TM=Turkmenistan=Turcomenistão
+TC=Turks and Caicos=Turks e Caicos
+TV=Tuvalu=Tuvalu
+UG=Uganda=Uganda
+UA=Ukraine=Ucrânia
+AE=United Arab Emirates=Emirados Árabes Unidos
+GB=United Kingdom=Reino Unido
+US=United States=Estados Unidos
+UY=Uruguay=Uruguai
+UZ=Uzbekistan=Usbequistão
+VU=Vanuatu=Vanuatu
+VE=Venezuela=Venezuela
+VN=Vietnam=Vietnã
+VG=British Virgin Islands=Ilhas Virgens Britânicas
+VI=U.S. Virgin Islands=Ilhas Virgens Americanas
+WF=Wallis and Futuna=Wallis e Futuna
+EH=Western Sahara=Saara Ocidental
+XK=Kosovo=Kosovo
+SX=Sint Maarten=São Martinho Holandês
+YE=Yemen=Iémen
+ZM=Zambia=Zâmbia
+ZW=Zimbabwe=Zimbábue
+WLS=Wales=País de Gales
+SCT=Scotland=Escócia
+ENG=England=Inglaterra
+NIR=Northern Ireland=Irlanda do Norte
+CW=Curacao=Curaçao
+BQ=Bonaire=Bonaire
+CAT=Catalonia=Catalunha
+LL=Liberland=Liberland
+SML=Somaliland=Somalilândia
+KK=Northern Cyprus=Chipre do Norte
+KOM=Knights of Malta=Cavaleiros de Malta
+SEB=Seborga=Seborga
+LG=Lugansk=Lugansk
+DN=Donetsk=Donetsk
+TS=Transnistria=Transnístria
+OST=South Ossetia=Ossétia do Sul
+SEA=Sealand=Sealand
+AB=Abkhazia=Abcásia
+AK=Artsakh=Artsaque
+HTR=Hutt River=Rio Hutt
+SW=Sahrawi Republic=República Saaraui
+UM=U.S. Minor Outlying Islands=Ilhas Menores Distantes dos EUA
+CC=Cocos (Keeling) Islands=Ilhas Cocos (Keeling)
+CX=Christmas Island=Ilha Christmas
+
+//Secessão
+BGV=Bougainville=Bougainville
+TX=Texas=Texas
+HW=Hawaii=Havaí
+CLF=California=Califórnia
+CT=Guangdong=Cantão
+TB=Tibet=Tibete
+QB=Quebec=Quebec
+
+//Para Adicionar:
+//Tibet

@@ -1,0 +1,7 @@
+core=EG
+claim=EG
+population=100075480
+area=1010408
+color=176,17,33
+cities{
+}

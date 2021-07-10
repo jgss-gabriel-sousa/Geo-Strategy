@@ -1,0 +1,7 @@
+core=BT
+claim=BT
+population=754388
+area=37972
+color=96,176,223
+cities{
+}

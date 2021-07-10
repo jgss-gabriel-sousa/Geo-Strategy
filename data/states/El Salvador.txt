@@ -1,0 +1,6 @@
+core=SV
+population=6420746
+area=20725
+color=176,208,199
+cities{
+}

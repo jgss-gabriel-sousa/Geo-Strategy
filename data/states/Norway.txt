@@ -1,0 +1,7 @@
+core=NO
+claim=NO
+population=5367580
+area=363250
+color=50,150,50
+cities{
+}

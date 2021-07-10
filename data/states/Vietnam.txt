@@ -1,0 +1,7 @@
+core=VN
+claim=VN
+population=96208984
+area=310081
+color=48,112,32
+cities{
+}

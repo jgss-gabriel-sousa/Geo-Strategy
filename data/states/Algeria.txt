@@ -1,0 +1,7 @@
+core=DZ
+claim=DZ
+population=43600000
+area=2355542
+color=128,144,96
+cities{
+}

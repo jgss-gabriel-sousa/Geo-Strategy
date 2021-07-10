@@ -1,0 +1,7 @@
+core=BL
+claim=BL
+population=9793
+area=25
+color=48,32,159
+cities{
+}

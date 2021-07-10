@@ -1,0 +1,40 @@
+Taxes:
+ValueAddedTax=
+CorporateTax=
+IncomeTax=
+IndustryTax=
+ImportTax=
+LargeFortunesTax=
+InheritanceTax=
+VehicleRegistrationTax=
+VehicleOwnershipTax=
+PropertyTax=
+AirlineTicketTax=
+AlcoholTax=
+
+GovernmentType:
+	presidential republic
+	semi-presidential republic
+	parliamentary monarchy
+	parliamentarism
+
+LegalSystem,BroadcastMedia: 
+	0-State Controlled
+	1-Partially Controlled
+	2-Full Independent
+
+SuffrageSystem:0-Not;1-Only for Men;2-Universal
+
+MillitaryService:0-Voluntary;1-Compulsory
+
+Doctors,HospitalBed,Death,Birth
+	per 1000 population
+
+GDP:
+	in Billions
+
+Oil:
+	thousands bbl/day
+
+Gas:
+	million cu m

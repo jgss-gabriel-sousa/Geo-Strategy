@@ -1,0 +1,7 @@
+core=LA
+claim=LA
+population=7123205
+area=230816
+color=176,239,32
+cities{
+}

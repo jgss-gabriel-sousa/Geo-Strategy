@@ -1,0 +1,7 @@
+core=GB,WLS
+claim=WLS
+population=3152879
+area=20779
+color=32,160,64
+cities{
+}

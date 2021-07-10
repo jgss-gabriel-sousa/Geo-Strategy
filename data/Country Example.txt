@@ -1,0 +1,136 @@
+//Geography
+Color=
+Capital=
+States=
+CapitalState=
+Culture{
+White=
+Hispanic=
+Black=
+Asian=
+}
+
+//Economy
+//GDP:PPP in Billions
+GDP=
+GDPGrowthRate=
+//Revenue:PPP in Billions
+BudgetRevenue=
+BudgetExpenditure=
+DebtRate=
+InflationRate=
+LaborForceRate=
+UnemploymentRate=
+MinimumWage=
+Gini=
+Currency=
+CountryReserves=
+InterestRate=
+
+
+//Taxes
+ValueAddedTax=
+CorporateTax=
+IncomeTax=
+IndustryTax=
+ImportTax=
+LargeFortunesTax=
+InheritanceTax=
+VehicleRegistrationTax=
+VehicleOwnershipTax=
+PropertyTax=
+AirlineTicketTax=
+AlcoholTax=
+
+//Government
+GovernmentType=
+Header of State=
+Title of Header of State=
+HeaderTerm=
+MaxConsecutiveTerms= //-1 to infinite terms
+HeaderElectionSystem= //0=Hereditary; 1=Parliament Voted; 2=People's Vote
+HeaderLastElection=
+ParliamentElectionSystem= //0=Hereditary; 1=Government Appointed; 2=Popular vote
+ParliamentLastElection=
+ParliamentTerm=
+ParliamentPower= //0=Consultation Only; 1=Only Propose Laws; 2=Only Vote Laws; 3=Propose and Vote Laws;
+SuffrageSystem= //0=Not; 1=Only for Men; 2=Universal
+SuffrageAge=
+//LegalSystem,BroadcastMedia: 0-State Controlled;1-Part. Control;2-Independent
+LegalSystem=
+BroadcastMedia=
+Parties=
+Parliament{
+NONE=100
+}
+
+//Population
+ChildrensRate=
+YoungRate=
+AdultRate=
+OldRate=
+//Birth, Death, Migration: per 1000 population
+Birth=
+Death=
+Migration=
+UrbanRate=
+LifeExpectancy=
+WaterRate=
+PovertyRate=
+//Refugees: in Thousands
+Refugees=
+
+//Health
+HealthBudget=
+//Doctors, HospitalBed: per 1000 population
+Doctors=
+HospitalBed=
+
+//Education
+EducationBudget=
+LiteracyRate=
+
+//Infrastructure
+SanitationRate=
+EletricityRate=
+EletricityProduction=
+EletricityConsumption=
+EletricityFossil=
+EletricityNuclear=
+EletricityHydroeletric=
+EletricityRenewable=
+InternetRate=
+MobilePhoneRate=
+Airports=
+Roads=
+Expressways=
+Railroads=
+ElectrifiedRailroad=
+Ports=
+
+
+//Millitary
+MillitaryBudget=
+MillitaryService=
+MillitaryServiceAge=
+ActivePersonnel=
+ReservePersonnel=
+Fighter=
+AttackHelicopter=
+Tank=
+ArmoredVehicle=
+SelfPropelledArtillery=
+Artillery=
+RocketProjector=
+AircraftCarrier=
+Ships=
+Submarines=
+
+
+Diplomacy{
+IN=
+IR=
+PK=
+TR=
+US=
+}

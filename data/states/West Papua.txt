@@ -1,0 +1,7 @@
+core=ID
+claim=ID
+population=963600
+area=140375
+color=211,181,77
+cities{
+}

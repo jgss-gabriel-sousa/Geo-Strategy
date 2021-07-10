@@ -1,0 +1,6 @@
+core=PA
+population=4176869
+area=73230
+color=128,192,16
+cities{
+}

@@ -1,0 +1,7 @@
+core=JP
+claim=JP
+population=42607376
+area=32424
+color=112,144,64
+cities{
+}

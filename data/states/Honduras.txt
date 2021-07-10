@@ -1,0 +1,6 @@
+core=HN
+population=9587522
+area=112492
+color=16,239,64
+cities{
+}

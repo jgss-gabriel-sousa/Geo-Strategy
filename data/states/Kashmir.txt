@@ -1,0 +1,10 @@
+name=Kashmir
+core=IN
+claim=IN,PK,CN
+population=0
+area=0
+color=33,240,32
+cities{
+}
+productions{
+}

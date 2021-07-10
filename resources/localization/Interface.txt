@@ -1,0 +1,30 @@
+//STRING_TAG=Language1=Language2
+
+Languages:English,Portuguese
+
+ECONOMY=Economy=Economia
+INFRASTRUCTURE=Infrastructure=Infraestrutura
+MILITARY=Military=Militar
+DIPLOMACY=Diplomacy=Diplomacia
+gdp=GDP=PIB
+gdpForecast=GDP Forecast=Previsão do PIB
+growthForecast=Growth Forecast=Previsão de Crescimento
+lastYearGdpGrowth=Last Year Growth=Crescimento do Ano Passado
+inflation=Inflation=Inflação
+nationalStockExchange=National Stock Exchange=Bolsa de Valores Nacional
+exports=Exports=Exportações
+imports=Imports=Importações
+unemployment=Unemployment=Desemprego
+unemploymentGrowth=Unemployment Growth=Crescimento do Desemprego
+industry=Industry=Indústria
+finances=Finances=Finanças
+currency=Currency=Moeda
+stateBudget=State Budget=Orçamento Estatal
+agriculture=Agriculture=Agricultura
+services=Services=Serviços
+civilServant=Civil Servant=Funcionários Públicos
+interestRate=Interest Rate=Taxa de Juros
+exchangeDolar=Exchange Dolar=Câmbio Dólar
+exchangeEuro=Exchange Euro=Câmbio Euro
+industrialGdp=Industrial GDP=PIB Industrial
+industrialGdpRate=Industrial GDP %=% de PIB Industrial

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BEngine" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/BEngine" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-audio" />
+					<Add library="sfml-network" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="icon.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="include/Agriculture.h" />
+		<Unit filename="include/City.h" />
+		<Unit filename="include/Country.h" />
+		<Unit filename="include/CountryState.h" />
+		<Unit filename="include/Currency.h" />
+		<Unit filename="include/Database.h" />
+		<Unit filename="include/Engine/AssetManager.h" />
+		<Unit filename="include/Engine/Collision.h" />
+		<Unit filename="include/Engine/Colors.h" />
+		<Unit filename="include/Engine/Components.h" />
+		<Unit filename="include/Engine/DEFINITIONS.h" />
+		<Unit filename="include/Engine/Engine.h" />
+		<Unit filename="include/Engine/Entity.h" />
+		<Unit filename="include/Engine/EntityManager.h" />
+		<Unit filename="include/Engine/InputManager.h" />
+		<Unit filename="include/Engine/Log.h" />
+		<Unit filename="include/Engine/State.h" />
+		<Unit filename="include/Engine/StateMachine.h" />
+		<Unit filename="include/Event.h" />
+		<Unit filename="include/GUI/Button.h" />
+		<Unit filename="include/GUI/ButtonBar.h" />
+		<Unit filename="include/GUI/GUIManager.h" />
+		<Unit filename="include/GUI/Graph.h" />
+		<Unit filename="include/GUI/ProgressBar.h" />
+		<Unit filename="include/GUI/Slider.h" />
+		<Unit filename="include/GUI/StateWindow.h" />
+		<Unit filename="include/GUI/Text.h" />
+		<Unit filename="include/GUI/TextList.h" />
+		<Unit filename="include/GUI/UI.h" />
+		<Unit filename="include/Industry.h" />
+		<Unit filename="include/JobMarket.h" />
+		<Unit filename="include/Market.h" />
+		<Unit filename="include/MilitaryView.h" />
+		<Unit filename="include/Party.h" />
+		<Unit filename="include/Person.h" />
+		<Unit filename="include/PoliticalParty.h" />
+		<Unit filename="include/Product.h" />
+		<Unit filename="include/SelbaWard.hpp" />
+		<Unit filename="include/Services.h" />
+		<Unit filename="include/Simulation.h" />
+		<Unit filename="include/States/GameMenu.h" />
+		<Unit filename="include/States/GameMenu/GUI.h" />
+		<Unit filename="include/States/Loading.h" />
+		<Unit filename="include/States/Menus/Agriculture.h" />
+		<Unit filename="include/States/Menus/Civil Servant.h" />
+		<Unit filename="include/States/Menus/Currency.h" />
+		<Unit filename="include/States/Menus/Finances.h" />
+		<Unit filename="include/States/Menus/Industry.h" />
+		<Unit filename="include/States/Menus/Services.h" />
+		<Unit filename="include/States/Menus/State Budget.h" />
+		<Unit filename="include/States/SplashState.h" />
+		<Unit filename="include/WorldMap.h" />
+		<Unit filename="include/stb_image.h" />
+		<Unit filename="sfml-audio-2.dll" />
+		<Unit filename="sfml-graphics-2.dll" />
+		<Unit filename="sfml-network-2.dll" />
+		<Unit filename="sfml-system-2.dll" />
+		<Unit filename="sfml-window-2.dll" />
+		<Unit filename="src/Agriculture.cpp" />
+		<Unit filename="src/City.cpp" />
+		<Unit filename="src/Country.cpp" />
+		<Unit filename="src/CountryState.cpp" />
+		<Unit filename="src/Database.cpp" />
+		<Unit filename="src/Engine/AssetManager.cpp" />
+		<Unit filename="src/Engine/Collision.cpp" />
+		<Unit filename="src/Engine/Engine.cpp" />
+		<Unit filename="src/Engine/Entity.cpp" />
+		<Unit filename="src/Engine/EntityManager.cpp" />
+		<Unit filename="src/Engine/InputManager.cpp" />
+		<Unit filename="src/Engine/Log.cpp" />
+		<Unit filename="src/Engine/StateMachine.cpp" />
+		<Unit filename="src/Engine/main.cpp" />
+		<Unit filename="src/Entity Components/Bullet.cpp" />
+		<Unit filename="src/Entity Components/Debug.cpp" />
+		<Unit filename="src/Entity Components/Draggable.cpp" />
+		<Unit filename="src/Entity Components/Gravity.cpp" />
+		<Unit filename="src/Entity Components/Movement.cpp" />
+		<Unit filename="src/Entity Components/Rotate.cpp" />
+		<Unit filename="src/Entity Components/SnapToGrid.cpp" />
+		<Unit filename="src/Entity Components/Solid.cpp" />
+		<Unit filename="src/Entity Components/Wrap.cpp" />
+		<Unit filename="src/Event.cpp" />
+		<Unit filename="src/GUI/Button.cpp" />
+		<Unit filename="src/GUI/ButtonBar.cpp" />
+		<Unit filename="src/GUI/GUIManager.cpp" />
+		<Unit filename="src/GUI/Graph.cpp" />
+		<Unit filename="src/GUI/ProgressBar.cpp" />
+		<Unit filename="src/GUI/Slider.cpp" />
+		<Unit filename="src/GUI/StateWindow.cpp" />
+		<Unit filename="src/GUI/Text.cpp" />
+		<Unit filename="src/GUI/TextList.cpp" />
+		<Unit filename="src/GetStateShape.cpp" />
+		<Unit filename="src/Industry.cpp" />
+		<Unit filename="src/JobMarket.cpp" />
+		<Unit filename="src/Market.cpp" />
+		<Unit filename="src/MilitaryView.cpp" />
+		<Unit filename="src/Party.cpp" />
+		<Unit filename="src/Person.cpp" />
+		<Unit filename="src/PoliticalParty.cpp" />
+		<Unit filename="src/SelbaWard/BitmapFont.cpp" />
+		<Unit filename="src/SelbaWard/BitmapFont.hpp" />
+		<Unit filename="src/SelbaWard/BitmapText.cpp" />
+		<Unit filename="src/SelbaWard/BitmapText.hpp" />
+		<Unit filename="src/SelbaWard/Common.hpp" />
+		<Unit filename="src/SelbaWard/ConsoleScreen.cpp" />
+		<Unit filename="src/SelbaWard/ConsoleScreen.hpp" />
+		<Unit filename="src/SelbaWard/ConsoleScreenOld.cpp" />
+		<Unit filename="src/SelbaWard/ConsoleScreenOld.hpp" />
+		<Unit filename="src/SelbaWard/Crosshair.cpp" />
+		<Unit filename="src/SelbaWard/Crosshair.hpp" />
+		<Unit filename="src/SelbaWard/ElasticSprite.cpp" />
+		<Unit filename="src/SelbaWard/ElasticSprite.hpp" />
+		<Unit filename="src/SelbaWard/Exception.hpp" />
+		<Unit filename="src/SelbaWard/GallerySprite.cpp" />
+		<Unit filename="src/SelbaWard/GallerySprite.hpp" />
+		<Unit filename="src/SelbaWard/Line.cpp" />
+		<Unit filename="src/SelbaWard/Line.hpp" />
+		<Unit filename="src/SelbaWard/NinePatch.cpp" />
+		<Unit filename="src/SelbaWard/NinePatch.hpp" />
+		<Unit filename="src/SelbaWard/PaletteEnums.hpp" />
+		<Unit filename="src/SelbaWard/PieChart.cpp" />
+		<Unit filename="src/SelbaWard/PieChart.hpp" />
+		<Unit filename="src/SelbaWard/PixelDisplay.cpp" />
+		<Unit filename="src/SelbaWard/PixelDisplay.hpp" />
+		<Unit filename="src/SelbaWard/ProgressBar.cpp" />
+		<Unit filename="src/SelbaWard/ProgressBar.hpp" />
+		<Unit filename="src/SelbaWard/Ring.cpp" />
+		<Unit filename="src/SelbaWard/Ring.hpp" />
+		<Unit filename="src/SelbaWard/SpinningCard.cpp" />
+		<Unit filename="src/SelbaWard/SpinningCard.hpp" />
+		<Unit filename="src/SelbaWard/Spline.cpp" />
+		<Unit filename="src/SelbaWard/Spline.hpp" />
+		<Unit filename="src/SelbaWard/Sprite3d.cpp" />
+		<Unit filename="src/SelbaWard/Sprite3d.hpp" />
+		<Unit filename="src/SelbaWard/Starfield.cpp" />
+		<Unit filename="src/SelbaWard/Starfield.hpp" />
+		<Unit filename="src/SelbaWard/TileMap.hpp" />
+		<Unit filename="src/SelbaWard/TileMap.inl" />
+		<Unit filename="src/Services.cpp" />
+		<Unit filename="src/Simulation.cpp" />
+		<Unit filename="src/States/GameMenu.cpp" />
+		<Unit filename="src/States/GameMenu/CameraMovement.cpp" />
+		<Unit filename="src/States/GameMenu/GUI.cpp" />
+		<Unit filename="src/States/Loading.cpp" />
+		<Unit filename="src/States/Menus/Agriculture.cpp" />
+		<Unit filename="src/States/Menus/Civil Servant.cpp" />
+		<Unit filename="src/States/Menus/Currency.cpp" />
+		<Unit filename="src/States/Menus/Finances.cpp" />
+		<Unit filename="src/States/Menus/Industry.cpp" />
+		<Unit filename="src/States/Menus/Services.cpp" />
+		<Unit filename="src/States/Menus/State Budget.cpp" />
+		<Unit filename="src/States/SplashState.cpp" />
+		<Unit filename="src/WorldMap.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

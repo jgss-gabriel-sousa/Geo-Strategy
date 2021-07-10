@@ -1,0 +1,7 @@
+core=VE
+claim=VE
+population=22941421‬
+area=836889
+color=176,240,128
+cities{
+}

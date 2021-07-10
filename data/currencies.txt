@@ -1,0 +1,12 @@
+//Code:Manager:Value in base dolar (2017)
+
+BSM:None=1
+BTC:None=0.000004
+USD:United States=1
+EUR:Europe Union=0.9
+INR:India=65.2
+CNY:China=7.8
+RUB:Russia=58.39
+AFN:Afghanistan=68
+BRL:Brasil=3.2
+JPY:Japan=111

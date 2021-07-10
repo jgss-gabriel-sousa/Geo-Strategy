@@ -1,0 +1,6 @@
+core=VA
+population=618
+area=0.49
+color=176,192,161
+cities{
+}

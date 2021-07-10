@@ -1,0 +1,7 @@
+core=MF
+claim=MF
+population=35334
+area=53
+color=140,98,146
+cities{
+}
