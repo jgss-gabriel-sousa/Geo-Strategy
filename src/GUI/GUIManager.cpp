@@ -37,7 +37,6 @@ void GUIManager::Remove(string name){
 
 void GUIManager::Reset(){
     for(pair<string,UI::BaseEntity*> element : elements){
-        //Remove(element.first);
         element.second->Set("invisible");
     }
 }

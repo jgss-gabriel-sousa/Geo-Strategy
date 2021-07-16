@@ -203,20 +203,6 @@ void UI::Button::Draw(sf::RenderWindow* window){
         window->draw(sprite);
         window->draw(text);
     }
-/*
-        if(visibilityChange){
-            sprite.setPosition(spritePos);
-            text.setPosition(textPos);
-            visibilityChange = false;
-        }
-        spritePos = sprite.getPosition();
-        textPos = text.getPosition();
-    }
-    else{
-        sprite.setPosition(-1000,-1000);
-        text.setPosition(-1000,-1000);
-    }
-    */
 }
 
 

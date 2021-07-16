@@ -1905,3 +1905,687 @@
 1594908029 d:\google drive\programação\programação c & c++\sfml\strategy\include\party.h
 	<string>
 
+1586540236 source:d:\git\strategy\icon.rc
+
+1594521213 source:d:\git\strategy\src\agriculture.cpp
+	"Agriculture.h"
+
+1595113684 d:\git\strategy\include\agriculture.h
+	<string>
+	<vector>
+	"Market.h"
+	"JobMarket.h"
+	"Country.h"
+
+1593618920 d:\git\strategy\include\market.h
+	<string>
+	<map>
+	"Product.h"
+	"Engine/Log.h"
+
+1593608890 d:\git\strategy\include\product.h
+	<string>
+
+1591836639 d:\git\strategy\include\engine\log.h
+	<string>
+
+1593309838 d:\git\strategy\include\jobmarket.h
+	<map>
+	<string>
+	<vector>
+	"Engine/Log.h"
+
+1593834023 d:\git\strategy\include\country.h
+	<vector>
+	<string>
+	"CountryState.h"
+	"Currency.h"
+	"SFML/Graphics.hpp"
+
+1594517533 d:\git\strategy\include\countrystate.h
+	<vector>
+	<string>
+	"City.h"
+	"Industry.h"
+	"Agriculture.h"
+	"Services.h"
+	"Engine/AssetManager.h"
+	"Engine/Log.h"
+	"SFML/Graphics.hpp"
+
+1591627806 d:\git\strategy\include\city.h
+	"SFML/Graphics.hpp"
+	<string>
+
+1593368176 d:\git\strategy\include\industry.h
+	<string>
+	<vector>
+	"Market.h"
+	"JobMarket.h"
+	"Country.h"
+
+1595113585 d:\git\strategy\include\services.h
+	<string>
+	<vector>
+	"Market.h"
+	"JobMarket.h"
+	"Country.h"
+
+1592159824 d:\git\strategy\include\engine\assetmanager.h
+	<map>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"DEFINITIONS.h"
+	"log.h"
+
+1591329112 d:\git\strategy\include\engine\definitions.h
+
+1592282594 d:\git\strategy\include\currency.h
+
+1591724568 source:d:\git\strategy\src\city.cpp
+	"City.h"
+
+1611490431 source:d:\git\strategy\src\country.cpp
+	"Country.h"
+	"Engine/AssetManager.h"
+
+1594517519 source:d:\git\strategy\src\countrystate.cpp
+	"CountryState.h"
+
+1594303617 source:d:\git\strategy\src\database.cpp
+	"Database.h"
+
+1593396954 d:\git\strategy\include\database.h
+	<Country.h>
+	<Currency.h>
+	<Industry.h>
+	<Agriculture.h>
+	<PoliticalParty.h>
+	<map>
+
+1592682753 d:\git\strategy\include\politicalparty.h
+	"Person.h"
+
+1592794460 d:\git\strategy\include\person.h
+	<vector>
+	<string>
+	"SFML/Graphics.hpp"
+	"Engine/AssetManager.h"
+
+1611494579 source:d:\git\strategy\src\engine\assetmanager.cpp
+	"Engine/AssetManager.h"
+
+1591370231 source:d:\git\strategy\src\engine\collision.cpp
+	<SFML/Graphics.hpp>
+	<map>
+	"Engine/Collision.h"
+
+1590170830 d:\git\strategy\include\engine\collision.h
+	<SFML/Graphics.hpp>
+
+1596683582 source:d:\git\strategy\src\engine\engine.cpp
+	"Engine/Engine.h"
+	"States/SplashState.h"
+
+1592832292 d:\git\strategy\include\engine\engine.h
+	<memory>
+	<string>
+	<SFML/Graphics.hpp>
+	<sstream>
+	<fstream>
+	"log.h"
+	"StateMachine.h"
+	"AssetManager.h"
+	"InputManager.h"
+	"EntityManager.h"
+	"GUI/GUIManager.h"
+	"DEFINITIONS.h"
+	"Database.h"
+
+1611288934 d:\git\strategy\include\engine\statemachine.h
+	<memory>
+	<stack>
+	"State.h"
+
+1577719686 d:\git\strategy\include\engine\state.h
+
+1592418756 d:\git\strategy\include\engine\inputmanager.h
+	<SFML/Graphics.hpp>
+
+1590364526 d:\git\strategy\include\engine\entitymanager.h
+	<vector>
+	<SFML/Graphics.hpp>
+	"Entity.h"
+	"Components.h"
+
+1593180297 d:\git\strategy\include\engine\entity.h
+	<string>
+	<vector>
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Log.h"
+	"AssetManager.h"
+
+1590367649 d:\git\strategy\include\engine\components.h
+	<iostream>
+	<math.h>
+	"Entity.h"
+
+1593374991 d:\git\strategy\include\gui\guimanager.h
+	"GUI/Button.h"
+	"GUI/Text.h"
+	"GUI/ProgressBar.h"
+	"GUI/ButtonBar.h"
+	"GUI/Slider.h"
+	"GUI/TextList.h"
+	"stdlib.h"
+	"Engine/AssetManager.h"
+	<map>
+
+1593377152 d:\git\strategy\include\gui\button.h
+	"UI.h"
+	"Engine/AssetManager.h"
+
+1591370281 d:\git\strategy\include\gui\ui.h
+	<SFML/Graphics.hpp>
+	<string>
+	"Engine/Log.h"
+	"Engine/Colors.h"
+
+1592509853 d:\git\strategy\include\engine\colors.h
+	<SFML/Graphics/Color.hpp>
+
+1592364351 d:\git\strategy\include\gui\text.h
+	"UI.h"
+	"Engine/AssetManager.h"
+
+1592092972 d:\git\strategy\include\gui\progressbar.h
+	"UI.h"
+	"Engine/AssetManager.h"
+
+1593374741 d:\git\strategy\include\gui\buttonbar.h
+	"UI.h"
+	"GUI/Button.h"
+
+1592512527 d:\git\strategy\include\gui\slider.h
+	"UI.h"
+	"Engine/DEFINITIONS.h"
+
+1592368822 d:\git\strategy\include\gui\textlist.h
+	"UI.h"
+	"GUI/Text.h"
+
+1591370299 d:\git\strategy\include\states\splashstate.h
+	<SFML/Graphics.hpp>
+	"Engine/State.h"
+	"Engine/Engine.h"
+	"Engine/Entity.h"
+
+1591370227 source:d:\git\strategy\src\engine\entity.cpp
+	"Engine/Entity.h"
+
+1591370236 source:d:\git\strategy\src\engine\entitymanager.cpp
+	"Engine/EntityManager.h"
+
+1592418887 source:d:\git\strategy\src\engine\inputmanager.cpp
+	"Engine/InputManager.h"
+
+1591836634 source:d:\git\strategy\src\engine\log.cpp
+	"Engine/Log.h"
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+
+1591835302 source:d:\git\strategy\src\engine\main.cpp
+	"Engine/Engine.h"
+	"Engine/DEFINITIONS.h"
+	<windows.h>
+	<iostream>
+	<locale>
+
+1611288894 source:d:\git\strategy\src\engine\statemachine.cpp
+	"Engine/StateMachine.h"
+
+1591999591 source:d:\git\strategy\src\entity components\bullet.cpp
+	"Engine/Components.h"
+
+1591999606 source:d:\git\strategy\src\entity components\debug.cpp
+	"Engine/Components.h"
+
+1591999627 source:d:\git\strategy\src\entity components\draggable.cpp
+	"Engine/Components.h"
+	"Engine/InputManager.h"
+	<SFML/Graphics.hpp>
+
+1591999630 source:d:\git\strategy\src\entity components\gravity.cpp
+	"Engine/Components.h"
+
+1591999641 source:d:\git\strategy\src\entity components\movement.cpp
+	"Engine/Components.h"
+
+1591999644 source:d:\git\strategy\src\entity components\rotate.cpp
+	"Engine/Components.h"
+
+1591999636 source:d:\git\strategy\src\entity components\snaptogrid.cpp
+	"Engine/Components.h"
+
+1591999657 source:d:\git\strategy\src\entity components\solid.cpp
+	"Engine/Components.h"
+
+1591999650 source:d:\git\strategy\src\entity components\wrap.cpp
+	"Engine/Components.h"
+
+1593374941 source:d:\git\strategy\src\event.cpp
+	"Event.h"
+
+1593186525 d:\git\strategy\include\event.h
+	"Engine/EntityManager.h"
+	"Engine/Engine.h"
+
+1592682710 source:d:\git\strategy\src\getstateshape.cpp
+	"CountryState.h"
+	<cstdlib>
+	<iostream>
+	<fstream>
+	"stb_image.h"
+
+1591592903 d:\git\strategy\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1593828421 source:d:\git\strategy\src\gui\button.cpp
+	"GUI/Button.h"
+
+1593380925 source:d:\git\strategy\src\gui\buttonbar.cpp
+	"GUI/ButtonBar.h"
+
+1593828470 source:d:\git\strategy\src\gui\graph.cpp
+	"GUI/Graph.h"
+
+1593221659 d:\git\strategy\include\gui\graph.h
+	"UI.h"
+	"Engine/AssetManager.h"
+
+1592141987 source:d:\git\strategy\src\gui\progressbar.cpp
+	"GUI/ProgressBar.h"
+
+1593828444 source:d:\git\strategy\src\gui\slider.cpp
+	"GUI/Slider.h"
+
+1594494064 source:d:\git\strategy\src\gui\statewindow.cpp
+	"GUI/StateWindow.h"
+
+1594517939 d:\git\strategy\include\gui\statewindow.h
+	"UI.h"
+	"Engine/AssetManager.h"
+	"GUI/GUIManager.h"
+
+1593832968 source:d:\git\strategy\src\gui\text.cpp
+	"GUI/Text.h"
+
+1592406887 source:d:\git\strategy\src\gui\textlist.cpp
+	"GUI/TextList.h"
+
+1594517640 source:d:\git\strategy\src\industry.cpp
+	"Industry.h"
+
+1594517603 source:d:\git\strategy\src\jobmarket.cpp
+	"JobMarket.h"
+
+1597890309 source:d:\git\strategy\src\market.cpp
+	"Market.h"
+
+1592541394 source:d:\git\strategy\src\militaryview.cpp
+	"MilitaryView.h"
+
+1592430750 d:\git\strategy\include\militaryview.h
+	"SFML/Graphics.hpp"
+	"Engine/AssetManager.h"
+	"Engine/InputManager.h"
+	"Engine/Collision.h"
+	"Database.h"
+	"Engine/Engine.h"
+	<fstream>
+
+1594901563 source:d:\git\strategy\src\party.cpp
+	"Party.h"
+
+1594908029 d:\git\strategy\include\party.h
+	<string>
+
+1592794512 source:d:\git\strategy\src\person.cpp
+	"Person.h"
+
+1592681666 source:d:\git\strategy\src\politicalparty.cpp
+	"PoliticalParty.h"
+
+1589239012 source:d:\git\strategy\src\selbaward\bitmapfont.cpp
+	"BitmapFont.hpp"
+
+1589239012 d:\git\strategy\src\selbaward\bitmapfont.hpp
+	"Common.hpp"
+	<SFML/Graphics/Texture.hpp>
+	<SFML/System/Vector2.hpp>
+	<map>
+
+1589239012 d:\git\strategy\src\selbaward\common.hpp
+	<exception>
+	<string>
+	<vector>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1589239012 source:d:\git\strategy\src\selbaward\bitmaptext.cpp
+	"BitmapText.hpp"
+
+1589239012 d:\git\strategy\src\selbaward\bitmaptext.hpp
+	"Common.hpp"
+	"BitmapFont.hpp"
+	<SFML/Graphics/VertexArray.hpp>
+
+1589239012 source:d:\git\strategy\src\selbaward\consolescreen.cpp
+	"ConsoleScreen.hpp"
+	<random>
+	<functional>
+	<algorithm>
+	<SFML/Config.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1589239012 d:\git\strategy\src\selbaward\consolescreen.hpp
+	"Common.hpp"
+	<unordered_map>
+
+1589239012 source:d:\git\strategy\src\selbaward\consolescreenold.cpp
+	"ConsoleScreenOld.hpp"
+	<random>
+	<functional>
+	<SFML/Graphics/Texture.hpp>
+
+1589239012 d:\git\strategy\src\selbaward\consolescreenold.hpp
+	"Common.hpp"
+	<unordered_map>
+
+1589239012 source:d:\git\strategy\src\selbaward\crosshair.cpp
+	"Crosshair.hpp"
+	<SFML/Window/Mouse.hpp>
+
+1589239012 d:\git\strategy\src\selbaward\crosshair.hpp
+	"Common.hpp"
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+
+1589239012 source:d:\git\strategy\src\selbaward\elasticsprite.cpp
+	"ElasticSprite.hpp"
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<assert.h>
+	<cmath>
+
+1589239012 d:\git\strategy\src\selbaward\elasticsprite.hpp
+	"Common.hpp"
+
+1589239012 source:d:\git\strategy\src\selbaward\gallerysprite.cpp
+	"GallerySprite.hpp"
+
+1589239012 d:\git\strategy\src\selbaward\gallerysprite.hpp
+	"Common.hpp"
+	<SFML/Graphics/Texture.hpp>
+
+1589239012 source:d:\git\strategy\src\selbaward\line.cpp
+	"Line.hpp"
+	<algorithm>
+	<cmath>
+
+1589239012 d:\git\strategy\src\selbaward\line.hpp
+	"Common.hpp"
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1589239012 source:d:\git\strategy\src\selbaward\ninepatch.cpp
+	"NinePatch.hpp"
+
+1589239012 d:\git\strategy\src\selbaward\ninepatch.hpp
+	"Common.hpp"
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1589239012 source:d:\git\strategy\src\selbaward\piechart.cpp
+	"PieChart.hpp"
+	<cmath>
+
+1589239012 d:\git\strategy\src\selbaward\piechart.hpp
+	"Common.hpp"
+
+1589239012 source:d:\git\strategy\src\selbaward\pixeldisplay.cpp
+	"PixelDisplay.hpp"
+	<random>
+	<functional>
+	<assert.h>
+
+1589239012 d:\git\strategy\src\selbaward\pixeldisplay.hpp
+	"Common.hpp"
+
+1589239012 source:d:\git\strategy\src\selbaward\progressbar.cpp
+	"ProgressBar.hpp"
+
+1589239012 d:\git\strategy\src\selbaward\progressbar.hpp
+	"Common.hpp"
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/Texture.hpp>
+
+1589239012 source:d:\git\strategy\src\selbaward\ring.cpp
+	"Ring.hpp"
+	<SFML/Graphics/Texture.hpp>
+	<cmath>
+
+1589239012 d:\git\strategy\src\selbaward\ring.hpp
+	"Common.hpp"
+
+1589239012 source:d:\git\strategy\src\selbaward\spinningcard.cpp
+	"SpinningCard.hpp"
+	<cmath>
+
+1589239012 d:\git\strategy\src\selbaward\spinningcard.hpp
+	"Common.hpp"
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+
+1589239012 source:d:\git\strategy\src\selbaward\spline.cpp
+	"Spline.hpp"
+	<cmath>
+	<assert.h>
+	<random>
+	<algorithm>
+	<initializer_list>
+
+1589239012 d:\git\strategy\src\selbaward\spline.hpp
+	"Common.hpp"
+
+1589239012 source:d:\git\strategy\src\selbaward\sprite3d.cpp
+	"Sprite3d.hpp"
+	<cmath>
+
+1589239012 d:\git\strategy\src\selbaward\sprite3d.hpp
+	"Common.hpp"
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Sprite.hpp>
+
+1589239012 source:d:\git\strategy\src\selbaward\starfield.cpp
+	"Starfield.hpp"
+	<random>
+	<functional>
+
+1589239012 d:\git\strategy\src\selbaward\starfield.hpp
+	"Common.hpp"
+
+1594517719 source:d:\git\strategy\src\services.cpp
+	"Services.h"
+
+1593481374 source:d:\git\strategy\src\simulation.cpp
+	"Simulation.h"
+
+1593481462 d:\git\strategy\include\simulation.h
+	"Database.h"
+	<algorithm>
+
+1613092992 source:d:\git\strategy\src\states\gamemenu.cpp
+	"States/GameMenu.h"
+
+1613092985 d:\git\strategy\include\states\gamemenu.h
+	<SFML/Graphics.hpp>
+	<TGUI/TGUI.hpp>
+	"Engine/State.h"
+	"Engine/Engine.h"
+	"WorldMap.h"
+	"MilitaryView.h"
+	"Country.h"
+	"Simulation.h"
+	"Event.h"
+	"States/Menus/Finances.h"
+	"States/Menus/Currency.h"
+	"States/Menus/Industry.h"
+	"States/Menus/Services.h"
+	"States/Menus/Agriculture.h"
+	"States/Menus/State Budget.h"
+	"States/Menus/Civil Servant.h"
+
+1593793253 d:\git\strategy\include\worldmap.h
+	"SFML/Graphics.hpp"
+	"Engine/AssetManager.h"
+	"Engine/InputManager.h"
+	"Engine/Collision.h"
+	"Database.h"
+	<fstream>
+
+1593108659 d:\git\strategy\include\states\menus\finances.h
+	<SFML/Graphics.hpp>
+	"../../../src/SelbaWard/PieChart.hpp"
+	"Engine/State.h"
+	"Engine/Engine.h"
+	"Country.h"
+	"States/GameMenu/GUI.h"
+
+1593108750 d:\git\strategy\include\states\gamemenu\gui.h
+	"SFML/Graphics.hpp"
+	"Engine/Engine.h"
+
+1593108659 d:\git\strategy\include\states\menus\currency.h
+	<SFML/Graphics.hpp>
+	"Engine/State.h"
+	"Engine/Engine.h"
+	"Country.h"
+	"States/GameMenu/GUI.h"
+
+1593108592 d:\git\strategy\include\states\menus\industry.h
+	<SFML/Graphics.hpp>
+	"../../../src/SelbaWard/PieChart.hpp"
+	"Engine/State.h"
+	"Engine/Engine.h"
+	"Country.h"
+	"States/GameMenu/GUI.h"
+
+1593108660 d:\git\strategy\include\states\menus\services.h
+	<SFML/Graphics.hpp>
+	"../../../src/SelbaWard/PieChart.hpp"
+	"Engine/State.h"
+	"Engine/Engine.h"
+	"Country.h"
+	"States/GameMenu/GUI.h"
+
+1593108659 d:\git\strategy\include\states\menus\agriculture.h
+	<SFML/Graphics.hpp>
+	"../../../src/SelbaWard/PieChart.hpp"
+	"Engine/State.h"
+	"Engine/Engine.h"
+	"Country.h"
+	"States/GameMenu/GUI.h"
+
+1593108656 d:\git\strategy\include\states\menus\state budget.h
+	<SFML/Graphics.hpp>
+	"../../../src/SelbaWard/PieChart.hpp"
+	"Engine/State.h"
+	"Engine/Engine.h"
+	"Country.h"
+	"States/GameMenu/GUI.h"
+
+1593108659 d:\git\strategy\include\states\menus\civil servant.h
+	<SFML/Graphics.hpp>
+	"../../../src/SelbaWard/PieChart.hpp"
+	"Engine/State.h"
+	"Engine/Engine.h"
+	"Country.h"
+	"States/GameMenu/GUI.h"
+
+1592090696 source:d:\git\strategy\src\states\gamemenu\cameramovement.cpp
+	"States/GameMenu.h"
+
+1613068989 source:d:\git\strategy\src\states\gamemenu\gui.cpp
+	"States/GameMenu.h"
+
+1612038630 source:d:\git\strategy\src\states\loading.cpp
+	"States/Loading.h"
+	"States/GameMenu.h"
+
+1592570671 d:\git\strategy\include\states\loading.h
+	<SFML/Graphics.hpp>
+	"Engine/State.h"
+	"Engine/Engine.h"
+	"Engine/Entity.h"
+	"CountryState.h"
+	"Country.h"
+	"Currency.h"
+	"JobMarket.h"
+
+1593108869 source:d:\git\strategy\src\states\menus\agriculture.cpp
+	"States/Menus/Agriculture.h"
+
+1593108869 source:d:\git\strategy\src\states\menus\civil servant.cpp
+	"States/Menus/Civil Servant.h"
+
+1593481186 source:d:\git\strategy\src\states\menus\currency.cpp
+	"States/Menus/Currency.h"
+
+1613063762 source:d:\git\strategy\src\states\menus\finances.cpp
+	"States/Menus/Finances.h"
+
+1593355160 source:d:\git\strategy\src\states\menus\industry.cpp
+	"States/Menus/Industry.h"
+
+1594390028 source:d:\git\strategy\src\states\menus\services.cpp
+	"States/Menus/Services.h"
+
+1593396966 source:d:\git\strategy\src\states\menus\state budget.cpp
+	"States/Menus/State Budget.h"
+
+1591378989 source:d:\git\strategy\src\states\splashstate.cpp
+	"States/SplashState.h"
+	"States/Loading.h"
+
+1593828597 source:d:\git\strategy\src\worldmap.cpp
+	"WorldMap.h"
+
