@@ -16,7 +16,7 @@ namespace Log{
         std::ofstream file;
         std::string line;
 
-        file.open("log.txt");
+        file.open("game.log");
         for(int i = 0; i < vectorLog.size(); ++i){
             file<<vectorLog[i]<<std::endl;
         }
