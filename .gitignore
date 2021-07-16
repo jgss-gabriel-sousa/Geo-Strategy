@@ -1,4 +1,5 @@
-
 *.layout
 *.o
 *.exe
+*.depend
+*.ini
