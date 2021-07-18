@@ -48,7 +48,7 @@ public:
 
     sf::Vector2f actualResolution;
     const int framerate = 60;
-    const string title = "Strategy";
+    const string title = "Geo Strategy";
 
 private:
     const float dt = 1.0f/60.0f;
