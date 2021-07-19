@@ -11,16 +11,16 @@ void Industry::Update(Market* market,JobMarket* jobMarket,Country* country){
         }
     }
 
-    employess = generalJobs+technicalJobs+expertJobs;
-    maxEmployess = (qty*baseGeneralJobs)+(qty*baseTechnicalJobs)+(qty*baseExpertJobs)+1;
+    employees = generalJobs+technicalJobs+expertJobs;
+    maxEmployees = (qty*baseGeneralJobs)+(qty*baseTechnicalJobs)+(qty*baseExpertJobs)+1;
     double productsNecessary = 0.0000001;
     double productsReceived = 0;
 
     for(int i = 0; i<input.size(); i++){
-        pair<double,double> p = market->Buy(input[i].first,input[i].second*efficiency*qty*(employess/maxEmployess));
+        pair<double,double> p = market->Buy(input[i].first,input[i].second*efficiency*qty*(employees/maxEmployees));
         balance -= p.first;
 
-        productsNecessary += (input[i].second*efficiency*qty*(employess/maxEmployess))*p.first;
+        productsNecessary += (input[i].second*efficiency*qty*(employees/maxEmployees))*p.first;
         productsReceived += p.second*p.first;
     }
     productionEfficiency = productsReceived/productsNecessary;
@@ -55,11 +55,11 @@ void Industry::Update(Market* market,JobMarket* jobMarket,Country* country){
     }
     Hire(jobMarket);
 
-    value = (((employess*jobMarket->averageSalary)*6))+cash+(profit*6);
+    value = (((employees*jobMarket->averageSalary)*6))+cash+(profit*6);
     Log::Push("\n----------------------\n");
     Log::Push("\t"+name+" - ("+country->data.name+") Industry");
-    Log::Push("   employess: "+to_string(generalJobs));
-    Log::Push("maxEmployess: "+to_string(maxEmployess));
+    Log::Push("   employees: "+to_string(generalJobs));
+    Log::Push("maxEmployees: "+to_string(maxEmployees));
     Log::Push("salary avg: "+to_string(jobMarket->averageSalary));
     Log::Push("cash: "+to_string(cash));
     Log::Push("profit: "+to_string(profit));

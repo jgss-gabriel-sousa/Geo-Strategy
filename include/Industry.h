@@ -28,8 +28,8 @@ public:
     double cash = 1;
     double balance=0;
     double yearProfit=0;
-    double employess = 0;
-    double maxEmployess = 0;
+    double employees = 0;
+    double maxEmployees = 0;
 
     vector<pair<string,double>> buildNeeds;
     vector<pair<string,double>> input;
