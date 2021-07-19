@@ -1,0 +1,4 @@
+Criado: 03/06/2020
+Desenvolvimento: 03/06/2020 - 19/08/2020
+Avaliação de Reinicio: 22/01/2021 - 03/02/2021
+Novo Reinicio Usando Git: 16/07/2021 - 
