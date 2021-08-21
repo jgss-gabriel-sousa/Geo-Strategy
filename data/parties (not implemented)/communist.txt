@@ -1,0 +1,9 @@
+approve{
+publicEducation
+publicHealth
+}
+
+disaprove{
+privateEducation
+privateHealth
+}
